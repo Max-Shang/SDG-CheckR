@@ -1,0 +1,296 @@
+﻿code,Name,Reference.Area.Type..for.UNSD.use.only.,required,GeoAreaName
+4,Afghanistan,1.0-Global,R,Afghanistan
+248,Åland Islands,1.0-Global,R,Åland Islands
+8,Albania,1.0-Global,R,Albania
+12,Algeria,1.0-Global,R,Algeria
+16,American Samoa,1.0-Global,R,American Samoa
+20,Andorra,1.0-Global,R,Andorra
+24,Angola,1.0-Global,R,Angola
+660,Anguilla,1.0-Global,R,Anguilla
+28,Antigua and Barbuda,1.0-Global,R,Antigua and Barbuda
+32,Argentina,1.0-Global,R,Argentina
+51,Armenia,1.0-Global,R,Armenia
+533,Aruba,1.0-Global,R,Aruba
+36,Australia,1.0-Global,R,Australia
+40,Austria,1.0-Global,R,Austria
+31,Azerbaijan,1.0-Global,R,Azerbaijan
+44,Bahamas,1.0-Global,R,Bahamas
+48,Bahrain,1.0-Global,R,Bahrain
+50,Bangladesh,1.0-Global,R,Bangladesh
+52,Barbados,1.0-Global,R,Barbados
+112,Belarus,1.0-Global,R,Belarus
+56,Belgium,1.0-Global,R,Belgium
+84,Belize,1.0-Global,R,Belize
+204,Benin,1.0-Global,R,Benin
+60,Bermuda,1.0-Global,R,Bermuda
+64,Bhutan,1.0-Global,R,Bhutan
+68,Bolivia (Plurinational State of),1.0-Global,R,Bolivia (Plurinational State of)
+535,"Bonaire, Sint Eustatius and Saba",1.0-Global,R,"Bonaire, Sint Eustatius and Saba"
+70,Bosnia and Herzegovina,1.0-Global,R,Bosnia and Herzegovina
+72,Botswana,1.0-Global,R,Botswana
+76,Brazil,1.0-Global,R,Brazil
+86,British Indian Ocean Territory,1.0-Global,R,British Indian Ocean Territory
+92,British Virgin Islands,1.0-Global,R,British Virgin Islands
+96,Brunei Darussalam,1.0-Global,R,Brunei Darussalam
+100,Bulgaria,1.0-Global,R,Bulgaria
+854,Burkina Faso,1.0-Global,R,Burkina Faso
+108,Burundi,1.0-Global,R,Burundi
+132,Cabo Verde,1.0-Global,R,Cabo Verde
+116,Cambodia,1.0-Global,R,Cambodia
+120,Cameroon,1.0-Global,R,Cameroon
+124,Canada,1.0-Global,R,Canada
+136,Cayman Islands,1.0-Global,R,Cayman Islands
+140,Central African Republic,1.0-Global,R,Central African Republic
+148,Chad,1.0-Global,R,Chad
+830,Channel Islands,1.0-Global,R,Channel Islands
+152,Chile,1.0-Global,R,Chile
+156,China,1.0-Global,R,China
+344,"China, Hong Kong Special Administrative Region",1.0-Global,R,"China, Hong Kong Special Administrative Region"
+446,"China, Macao Special Administrative Region",1.0-Global,R,"China, Macao Special Administrative Region"
+162,Christmas Island,1.0-Global,R,Christmas Island
+166,Cocos (Keeling) Islands,1.0-Global,R,Cocos (Keeling) Islands
+170,Colombia,1.0-Global,R,Colombia
+174,Comoros,1.0-Global,R,Comoros
+178,Congo,1.0-Global,R,Congo
+184,Cook Islands,1.0-Global,R,Cook Islands
+188,Costa Rica,1.0-Global,R,Costa Rica
+384,Côte d'Ivoire,1.0-Global,R,Côte d'Ivoire
+191,Croatia,1.0-Global,R,Croatia
+192,Cuba,1.0-Global,R,Cuba
+531,Curaçao,1.0-Global,R,Curaçao
+196,Cyprus,1.0-Global,R,Cyprus
+203,Czechia,1.0-Global,R,Czechia
+408,Democratic People's Republic of Korea,1.0-Global,R,Democratic People's Republic of Korea
+180,Democratic Republic of the Congo,1.0-Global,R,Democratic Republic of the Congo
+208,Denmark,1.0-Global,R,Denmark
+262,Djibouti,1.0-Global,R,Djibouti
+212,Dominica,1.0-Global,R,Dominica
+214,Dominican Republic,1.0-Global,R,Dominican Republic
+218,Ecuador,1.0-Global,R,Ecuador
+818,Egypt,1.0-Global,R,Egypt
+222,El Salvador,1.0-Global,R,El Salvador
+226,Equatorial Guinea,1.0-Global,R,Equatorial Guinea
+232,Eritrea,1.0-Global,R,Eritrea
+233,Estonia,1.0-Global,R,Estonia
+748,Eswatini,1.0-Global,R,Eswatini
+231,Ethiopia,1.0-Global,R,Ethiopia
+238,Falkland Islands (Malvinas),1.0-Global,R,Falkland Islands (Malvinas)
+234,Faroe Islands,1.0-Global,R,Faroe Islands
+242,Fiji,1.0-Global,R,Fiji
+246,Finland,1.0-Global,R,Finland
+250,France,1.0-Global,R,France
+254,French Guiana,1.0-Global,R,French Guiana
+258,French Polynesia,1.0-Global,R,French Polynesia
+260,French Southern and Antarctic Territories,1.0-Global,R,French Southern and Antarctic Territories
+266,Gabon,1.0-Global,R,Gabon
+270,Gambia,1.0-Global,R,Gambia
+268,Georgia,1.0-Global,R,Georgia
+276,Germany,1.0-Global,R,Germany
+288,Ghana,1.0-Global,R,Ghana
+292,Gibraltar,1.0-Global,R,Gibraltar
+300,Greece,1.0-Global,R,Greece
+304,Greenland,1.0-Global,R,Greenland
+308,Grenada,1.0-Global,R,Grenada
+312,Guadeloupe,1.0-Global,R,Guadeloupe
+316,Guam,1.0-Global,R,Guam
+320,Guatemala,1.0-Global,R,Guatemala
+831,Guernsey,1.0-Global,R,Guernsey
+324,Guinea,1.0-Global,R,Guinea
+624,Guinea-Bissau,1.0-Global,R,Guinea-Bissau
+328,Guyana,1.0-Global,R,Guyana
+332,Haiti,1.0-Global,R,Haiti
+334,Heard Island and McDonald Islands,1.0-Global,R,Heard Island and McDonald Islands
+336,Holy See,1.0-Global,R,Holy See
+340,Honduras,1.0-Global,R,Honduras
+348,Hungary,1.0-Global,R,Hungary
+352,Iceland,1.0-Global,R,Iceland
+356,India,1.0-Global,R,India
+360,Indonesia,1.0-Global,R,Indonesia
+364,Iran (Islamic Republic of),1.0-Global,R,Iran (Islamic Republic of)
+368,Iraq,1.0-Global,R,Iraq
+372,Ireland,1.0-Global,R,Ireland
+833,Isle of Man,1.0-Global,R,Isle of Man
+376,Israel,1.0-Global,R,Israel
+380,Italy,1.0-Global,R,Italy
+388,Jamaica,1.0-Global,R,Jamaica
+392,Japan,1.0-Global,R,Japan
+832,Jersey,1.0-Global,R,Jersey
+400,Jordan,1.0-Global,R,Jordan
+398,Kazakhstan,1.0-Global,R,Kazakhstan
+404,Kenya,1.0-Global,R,Kenya
+296,Kiribati,1.0-Global,R,Kiribati
+414,Kuwait,1.0-Global,R,Kuwait
+417,Kyrgyzstan,1.0-Global,R,Kyrgyzstan
+418,Lao People's Democratic Republic,1.0-Global,R,Lao People's Democratic Republic
+428,Latvia,1.0-Global,R,Latvia
+422,Lebanon,1.0-Global,R,Lebanon
+426,Lesotho,1.0-Global,R,Lesotho
+430,Liberia,1.0-Global,R,Liberia
+434,Libya,1.0-Global,R,Libya
+438,Liechtenstein,1.0-Global,R,Liechtenstein
+440,Lithuania,1.0-Global,R,Lithuania
+442,Luxembourg,1.0-Global,R,Luxembourg
+450,Madagascar,1.0-Global,R,Madagascar
+454,Malawi,1.0-Global,R,Malawi
+458,Malaysia,1.0-Global,R,Malaysia
+462,Maldives,1.0-Global,R,Maldives
+466,Mali,1.0-Global,R,Mali
+470,Malta,1.0-Global,R,Malta
+584,Marshall Islands,1.0-Global,R,Marshall Islands
+474,Martinique,1.0-Global,R,Martinique
+478,Mauritania,1.0-Global,R,Mauritania
+480,Mauritius,1.0-Global,R,Mauritius
+175,Mayotte,1.0-Global,R,Mayotte
+484,Mexico,1.0-Global,R,Mexico
+583,Micronesia (Federated States of),1.0-Global,R,Micronesia (Federated States of)
+492,Monaco,1.0-Global,R,Monaco
+496,Mongolia,1.0-Global,R,Mongolia
+499,Montenegro,1.0-Global,R,Montenegro
+500,Montserrat,1.0-Global,R,Montserrat
+504,Morocco,1.0-Global,R,Morocco
+508,Mozambique,1.0-Global,R,Mozambique
+104,Myanmar,1.0-Global,R,Myanmar
+516,Namibia,1.0-Global,R,Namibia
+520,Nauru,1.0-Global,R,Nauru
+524,Nepal,1.0-Global,R,Nepal
+528,Netherlands,1.0-Global,R,Netherlands
+540,New Caledonia,1.0-Global,R,New Caledonia
+554,New Zealand,1.0-Global,R,New Zealand
+558,Nicaragua,1.0-Global,R,Nicaragua
+562,Niger,1.0-Global,R,Niger
+566,Nigeria,1.0-Global,R,Nigeria
+570,Niue,1.0-Global,R,Niue
+574,Norfolk Island,1.0-Global,R,Norfolk Island
+580,Northern Mariana Islands,1.0-Global,R,Northern Mariana Islands
+578,Norway,1.0-Global,R,Norway
+512,Oman,1.0-Global,R,Oman
+586,Pakistan,1.0-Global,R,Pakistan
+585,Palau,1.0-Global,R,Palau
+591,Panama,1.0-Global,R,Panama
+598,Papua New Guinea,1.0-Global,R,Papua New Guinea
+600,Paraguay,1.0-Global,R,Paraguay
+604,Peru,1.0-Global,R,Peru
+608,Philippines,1.0-Global,R,Philippines
+612,Pitcairn,1.0-Global,R,Pitcairn
+616,Poland,1.0-Global,R,Poland
+620,Portugal,1.0-Global,R,Portugal
+630,Puerto Rico,1.0-Global,R,Puerto Rico
+634,Qatar,1.0-Global,R,Qatar
+410,Republic of Korea,1.0-Global,R,Republic of Korea
+498,Republic of Moldova,1.0-Global,R,Republic of Moldova
+638,Réunion,1.0-Global,R,Réunion
+642,Romania,1.0-Global,R,Romania
+643,Russian Federation,1.0-Global,R,Russian Federation
+646,Rwanda,1.0-Global,R,Rwanda
+652,Saint Barthélemy,1.0-Global,R,Saint Barthélemy
+654,Saint Helena,1.0-Global,R,Saint Helena
+659,Saint Kitts and Nevis,1.0-Global,R,Saint Kitts and Nevis
+662,Saint Lucia,1.0-Global,R,Saint Lucia
+663,Saint Martin (French Part),1.0-Global,R,Saint Martin (French Part)
+666,Saint Pierre and Miquelon,1.0-Global,R,Saint Pierre and Miquelon
+670,Saint Vincent and the Grenadines,1.0-Global,R,Saint Vincent and the Grenadines
+882,Samoa,1.0-Global,R,Samoa
+674,San Marino,1.0-Global,R,San Marino
+678,Sao Tome and Principe,1.0-Global,R,Sao Tome and Principe
+682,Saudi Arabia,1.0-Global,R,Saudi Arabia
+686,Senegal,1.0-Global,R,Senegal
+688,Serbia,1.0-Global,R,Serbia
+690,Seychelles,1.0-Global,R,Seychelles
+694,Sierra Leone,1.0-Global,R,Sierra Leone
+702,Singapore,1.0-Global,R,Singapore
+534,Sint Maarten (Dutch part),1.0-Global,R,Sint Maarten (Dutch part)
+703,Slovakia,1.0-Global,R,Slovakia
+705,Slovenia,1.0-Global,R,Slovenia
+90,Solomon Islands,1.0-Global,R,Solomon Islands
+706,Somalia,1.0-Global,R,Somalia
+710,South Africa,1.0-Global,R,South Africa
+239,South Georgia and the South Sandwich Islands,1.0-Global,R,South Georgia and the South Sandwich Islands
+728,South Sudan,1.0-Global,R,South Sudan
+724,Spain,1.0-Global,R,Spain
+144,Sri Lanka,1.0-Global,R,Sri Lanka
+275,State of Palestine,1.0-Global,R,State of Palestine
+729,Sudan,1.0-Global,R,Sudan
+740,Suriname,1.0-Global,R,Suriname
+744,Svalbard and Jan Mayen Islands,1.0-Global,R,Svalbard and Jan Mayen Islands
+752,Sweden,1.0-Global,R,Sweden
+756,Switzerland,1.0-Global,R,Switzerland
+760,Syrian Arab Republic,1.0-Global,R,Syrian Arab Republic
+762,Tajikistan,1.0-Global,R,Tajikistan
+764,Thailand,1.0-Global,R,Thailand
+807,Republic of North Macedonia,1.0-Global,R,Republic of North Macedonia
+626,Timor-Leste,1.0-Global,R,Timor-Leste
+768,Togo,1.0-Global,R,Togo
+772,Tokelau,1.0-Global,R,Tokelau
+776,Tonga,1.0-Global,R,Tonga
+780,Trinidad and Tobago,1.0-Global,R,Trinidad and Tobago
+788,Tunisia,1.0-Global,R,Tunisia
+792,Turkey,1.0-Global,R,Turkey
+795,Turkmenistan,1.0-Global,R,Turkmenistan
+796,Turks and Caicos Islands,1.0-Global,R,Turks and Caicos Islands
+798,Tuvalu,1.0-Global,R,Tuvalu
+800,Uganda,1.0-Global,R,Uganda
+804,Ukraine,1.0-Global,R,Ukraine
+784,United Arab Emirates,1.0-Global,R,United Arab Emirates
+826,United Kingdom of Great Britain and Northern Ireland,1.0-Global,R,United Kingdom of Great Britain and Northern Ireland
+834,United Republic of Tanzania,1.0-Global,R,United Republic of Tanzania
+581,United States minor outlying islands,1.0-Global,R,United States minor outlying islands
+840,United States of America,1.0-Global,R,United States of America
+850,United States Virgin Islands,1.0-Global,R,United States Virgin Islands
+858,Uruguay,1.0-Global,R,Uruguay
+860,Uzbekistan,1.0-Global,R,Uzbekistan
+548,Vanuatu,1.0-Global,R,Vanuatu
+862,Venezuela (Bolivarian Republic of),1.0-Global,R,Venezuela (Bolivarian Republic of)
+704,Viet Nam,1.0-Global,R,Viet Nam
+876,Wallis and Futuna Islands,1.0-Global,R,Wallis and Futuna Islands
+732,Western Sahara,1.0-Global,R,Western Sahara
+887,Yemen,1.0-Global,R,Yemen
+894,Zambia,1.0-Global,R,Zambia
+716,Zimbabwe,1.0-Global,R,Zimbabwe
+513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),R,Northern America (M49) and Europe (M49)
+202,Sub-Saharan Africa (M49),2.1-Regional (SDG),R,Sub-Saharan Africa (M49)
+21,Northern America (M49),2.1-Regional (SDG),R,Northern America (M49)
+150,Europe (M49),2.1-Regional (SDG),R,Europe (M49)
+419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),R,Latin America and the Caribbean (MDG=M49)
+62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),R,Central Asia (M49) and Southern Asia (MDG=M49)
+143,Central Asia (M49),2.1-Regional (SDG),R,Central Asia (M49)
+34,Southern Asia (MDG=M49),2.1-Regional (SDG),R,Southern Asia (MDG=M49)
+753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),R,Eastern Asia (M49) and South-eastern Asia (MDG=M49)
+30,Eastern Asia (M49),2.1-Regional (SDG),R,Eastern Asia (M49)
+35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),R,South-eastern Asia (MDG=M49)
+747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),R,Western Asia (M49) and Northern Africa (M49)
+145,Western Asia (M49),2.1-Regional (SDG),R,Western Asia (M49)
+15,Northern Africa (M49),2.1-Regional (SDG),R,Northern Africa (M49)
+9,Oceania (M49),2.1-Regional (SDG),R,Oceania (M49)
+543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),R,Oceania (M49) excluding Australia and New Zealand (M49)
+53,Australia and New Zealand (M49),2.1-Regional (SDG),R,Australia and New Zealand (M49)
+199,Least Developed Countries (LDCs),2.3-Other groupings,R,Least Developed Countries (LDCs)
+432,Landlocked developing countries (LLDCs),2.3-Other groupings,R,Landlocked developing countries (LLDCs)
+722,Small island developing States (SIDS),2.3-Other groupings,R,Small island developing States (SIDS)
+2,Africa (M49),2.4-Regional (M49),O,Africa (M49)
+142,Asia (M49),2.4-Regional (M49),O,Asia (M49)
+19,Americas (m49),2.4-Regional (M49),O,Americas (m49)
+29,Caribbean (M49),2.4-Regional (M49),O,Caribbean (M49)
+13,Central America (M49),2.4-Regional (M49),O,Central America (M49)
+14,Eastern Africa (M49),2.4-Regional (M49),O,Eastern Africa (M49)
+151,Eastern Europe (M49),2.4-Regional (M49),O,Eastern Europe (M49)
+54,Melanesia (M49),2.4-Regional (M49),O,Melanesia (M49)
+57,Micronesia (M49),2.4-Regional (M49),O,Micronesia (M49)
+17,Middle Africa (M49),2.4-Regional (M49),O,Middle Africa (M49)
+154,Northern Europe (M49),2.4-Regional (M49),O,Northern Europe (M49)
+61,Polynesia (M49),2.4-Regional (M49),O,Polynesia (M49)
+5,South America (M49),2.4-Regional (M49),O,South America (M49)
+18,Southern Africa (M49),2.4-Regional (M49),O,Southern Africa (M49)
+39,Southern Europe (M49),2.4-Regional (M49),O,Southern Europe (M49)
+11,Western Africa (M49),2.4-Regional (M49),O,Western Africa (M49)
+155,Western Europe (M49),2.4-Regional (M49),O,Western Europe (M49)
+515,Developing regions (MDG),2.5-Regional (MDG),O,Developing regions (MDG)
+514,Developed regions (MDG),2.5-Regional (MDG),O,Developed regions (MDG)
+746,Northern Africa (MDG),2.5-Regional (MDG),O,Northern Africa (MDG)
+738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),O,Sub-Saharan Africa (MDG)
+419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),O,Latin America and the Caribbean (MDG=M49)
+34,Southern Asia (MDG=M49),2.5-Regional (MDG),O,Southern Asia (MDG=M49)
+35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),O,South-eastern Asia (MDG=M49)
+485,Western Asia (MDG),2.5-Regional (MDG),O,Western Asia (MDG)
+543,Oceania (MDG),2.5-Regional (MDG),O,Oceania (MDG)
+135,Caucasus and Central Asia (MDG),2.5-Regional (MDG),O,Caucasus and Central Asia (MDG)
+1,World,1.0-Global,R,World

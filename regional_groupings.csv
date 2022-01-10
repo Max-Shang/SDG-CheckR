@@ -1,0 +1,1550 @@
+M49_Code,ISO_Code,Country,region_m49,Region_Name,Grouping,include
+4,AFG,Afghanistan,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+4,AFG,Afghanistan,34,Southern Asia (MDG=M49),2.5-Regional (MDG),1
+4,AFG,Afghanistan,515,Developing regions (MDG),2.5-Regional (MDG),1
+4,AFG,Afghanistan,34,Southern Asia (MDG=M49),2.1-Regional (SDG),1
+4,AFG,Afghanistan,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+4,AFG,Afghanistan,1,World,1.0-Global,1
+4,AFG,Afghanistan,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+4,AFG,Afghanistan,142,Asia (M49),2.4-Regional (M49),1
+8,ALB,Albania,514,Developed regions (MDG),2.5-Regional (MDG),1
+8,ALB,Albania,1,World,1.0-Global,1
+8,ALB,Albania,39,Southern Europe (M49),2.4-Regional (M49),1
+8,ALB,Albania,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+8,ALB,Albania,150,Europe (M49),2.1-Regional (SDG),1
+12,DZA,Algeria,746,Northern Africa (MDG),2.5-Regional (MDG),1
+12,DZA,Algeria,2,Africa (M49),2.4-Regional (M49),1
+12,DZA,Algeria,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+12,DZA,Algeria,1,World,1.0-Global,1
+12,DZA,Algeria,515,Developing regions (MDG),2.5-Regional (MDG),1
+12,DZA,Algeria,15,Northern Africa (M49),2.1-Regional (SDG),1
+16,ASM,American Samoa,543,Oceania (MDG),2.5-Regional (MDG),0
+16,ASM,American Samoa,61,Polynesia (M49),2.4-Regional (M49),0
+16,ASM,American Samoa,515,Developing regions (MDG),2.5-Regional (MDG),0
+16,ASM,American Samoa,9,Oceania (M49),2.1-Regional (SDG),0
+16,ASM,American Samoa,1,World,1.0-Global,0
+16,ASM,American Samoa,722,Small island developing States (SIDS),2.3-Other groupings,0
+16,ASM,American Samoa,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),0
+20,AND,Andorra,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+20,AND,Andorra,39,Southern Europe (M49),2.4-Regional (M49),1
+20,AND,Andorra,150,Europe (M49),2.1-Regional (SDG),1
+20,AND,Andorra,1,World,1.0-Global,1
+20,AND,Andorra,514,Developed regions (MDG),2.5-Regional (MDG),1
+24,AGO,Angola,2,Africa (M49),2.4-Regional (M49),1
+24,AGO,Angola,1,World,1.0-Global,1
+24,AGO,Angola,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+24,AGO,Angola,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+24,AGO,Angola,515,Developing regions (MDG),2.5-Regional (MDG),1
+24,AGO,Angola,17,Middle Africa (M49),2.4-Regional (M49),1
+24,AGO,Angola,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+660,AIA,Anguilla,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+660,AIA,Anguilla,515,Developing regions (MDG),2.5-Regional (MDG),0
+660,AIA,Anguilla,29,Caribbean (M49),2.4-Regional (M49),0
+660,AIA,Anguilla,722,Small island developing States (SIDS),2.3-Other groupings,0
+660,AIA,Anguilla,19,Americas (m49),2.4-Regional (M49),0
+660,AIA,Anguilla,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+660,AIA,Anguilla,1,World,1.0-Global,0
+28,ATG,Antigua and Barbuda,722,Small island developing States (SIDS),2.3-Other groupings,1
+28,ATG,Antigua and Barbuda,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+28,ATG,Antigua and Barbuda,515,Developing regions (MDG),2.5-Regional (MDG),1
+28,ATG,Antigua and Barbuda,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+28,ATG,Antigua and Barbuda,1,World,1.0-Global,1
+28,ATG,Antigua and Barbuda,29,Caribbean (M49),2.4-Regional (M49),1
+28,ATG,Antigua and Barbuda,19,Americas (m49),2.4-Regional (M49),1
+32,ARG,Argentina,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+32,ARG,Argentina,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+32,ARG,Argentina,19,Americas (m49),2.4-Regional (M49),1
+32,ARG,Argentina,5,South America (M49),2.4-Regional (M49),1
+32,ARG,Argentina,1,World,1.0-Global,1
+32,ARG,Argentina,515,Developing regions (MDG),2.5-Regional (MDG),1
+51,ARM,Armenia,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+51,ARM,Armenia,135,Caucasus and Central Asia (MDG),2.5-Regional (MDG),1
+51,ARM,Armenia,515,Developing regions (MDG),2.5-Regional (MDG),1
+51,ARM,Armenia,142,Asia (M49),2.4-Regional (M49),1
+51,ARM,Armenia,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+51,ARM,Armenia,145,Western Asia (M49),2.1-Regional (SDG),1
+51,ARM,Armenia,1,World,1.0-Global,1
+533,ABW,Aruba,515,Developing regions (MDG),2.5-Regional (MDG),0
+533,ABW,Aruba,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+533,ABW,Aruba,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+533,ABW,Aruba,19,Americas (m49),2.4-Regional (M49),0
+533,ABW,Aruba,722,Small island developing States (SIDS),2.3-Other groupings,0
+533,ABW,Aruba,29,Caribbean (M49),2.4-Regional (M49),0
+533,ABW,Aruba,1,World,1.0-Global,0
+36,AUS,Australia,9,Oceania (M49),2.1-Regional (SDG),1
+36,AUS,Australia,53,Australia and New Zealand (M49),2.1-Regional (SDG),1
+36,AUS,Australia,514,Developed regions (MDG),2.5-Regional (MDG),1
+36,AUS,Australia,1,World,1.0-Global,1
+40,AUT,Austria,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+40,AUT,Austria,514,Developed regions (MDG),2.5-Regional (MDG),1
+40,AUT,Austria,150,Europe (M49),2.1-Regional (SDG),1
+40,AUT,Austria,1,World,1.0-Global,1
+40,AUT,Austria,155,Western Europe (M49),2.4-Regional (M49),1
+31,AZE,Azerbaijan,145,Western Asia (M49),2.1-Regional (SDG),1
+31,AZE,Azerbaijan,1,World,1.0-Global,1
+31,AZE,Azerbaijan,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+31,AZE,Azerbaijan,142,Asia (M49),2.4-Regional (M49),1
+31,AZE,Azerbaijan,135,Caucasus and Central Asia (MDG),2.5-Regional (MDG),1
+31,AZE,Azerbaijan,515,Developing regions (MDG),2.5-Regional (MDG),1
+31,AZE,Azerbaijan,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+44,BHS,Bahamas,1,World,1.0-Global,1
+44,BHS,Bahamas,19,Americas (m49),2.4-Regional (M49),1
+44,BHS,Bahamas,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+44,BHS,Bahamas,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+44,BHS,Bahamas,722,Small island developing States (SIDS),2.3-Other groupings,1
+44,BHS,Bahamas,515,Developing regions (MDG),2.5-Regional (MDG),1
+44,BHS,Bahamas,29,Caribbean (M49),2.4-Regional (M49),1
+48,BHR,Bahrain,515,Developing regions (MDG),2.5-Regional (MDG),1
+48,BHR,Bahrain,485,Western Asia (MDG),2.5-Regional (MDG),1
+48,BHR,Bahrain,142,Asia (M49),2.4-Regional (M49),1
+48,BHR,Bahrain,145,Western Asia (M49),2.1-Regional (SDG),1
+48,BHR,Bahrain,1,World,1.0-Global,1
+48,BHR,Bahrain,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+50,BGD,Bangladesh,142,Asia (M49),2.4-Regional (M49),1
+50,BGD,Bangladesh,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+50,BGD,Bangladesh,1,World,1.0-Global,1
+50,BGD,Bangladesh,34,Southern Asia (MDG=M49),2.5-Regional (MDG),1
+50,BGD,Bangladesh,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+50,BGD,Bangladesh,34,Southern Asia (MDG=M49),2.1-Regional (SDG),1
+50,BGD,Bangladesh,515,Developing regions (MDG),2.5-Regional (MDG),1
+52,BRB,Barbados,515,Developing regions (MDG),2.5-Regional (MDG),1
+52,BRB,Barbados,722,Small island developing States (SIDS),2.3-Other groupings,1
+52,BRB,Barbados,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+52,BRB,Barbados,29,Caribbean (M49),2.4-Regional (M49),1
+52,BRB,Barbados,1,World,1.0-Global,1
+52,BRB,Barbados,19,Americas (m49),2.4-Regional (M49),1
+52,BRB,Barbados,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+112,BLR,Belarus,151,Eastern Europe (M49),2.4-Regional (M49),1
+112,BLR,Belarus,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+112,BLR,Belarus,1,World,1.0-Global,1
+112,BLR,Belarus,150,Europe (M49),2.1-Regional (SDG),1
+112,BLR,Belarus,514,Developed regions (MDG),2.5-Regional (MDG),1
+56,BEL,Belgium,1,World,1.0-Global,1
+56,BEL,Belgium,150,Europe (M49),2.1-Regional (SDG),1
+56,BEL,Belgium,155,Western Europe (M49),2.4-Regional (M49),1
+56,BEL,Belgium,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+56,BEL,Belgium,514,Developed regions (MDG),2.5-Regional (MDG),1
+84,BLZ,Belize,19,Americas (m49),2.4-Regional (M49),1
+84,BLZ,Belize,1,World,1.0-Global,1
+84,BLZ,Belize,13,Central America (M49),2.4-Regional (M49),1
+84,BLZ,Belize,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+84,BLZ,Belize,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+84,BLZ,Belize,515,Developing regions (MDG),2.5-Regional (MDG),1
+84,BLZ,Belize,722,Small island developing States (SIDS),2.3-Other groupings,1
+204,BEN,Benin,11,Western Africa (M49),2.4-Regional (M49),1
+204,BEN,Benin,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+204,BEN,Benin,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+204,BEN,Benin,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+204,BEN,Benin,2,Africa (M49),2.4-Regional (M49),1
+204,BEN,Benin,515,Developing regions (MDG),2.5-Regional (MDG),1
+204,BEN,Benin,1,World,1.0-Global,1
+60,BMU,Bermuda,1,World,1.0-Global,0
+60,BMU,Bermuda,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+60,BMU,Bermuda,19,Americas (m49),2.4-Regional (M49),0
+60,BMU,Bermuda,514,Developed regions (MDG),2.5-Regional (MDG),0
+60,BMU,Bermuda,21,Northern America (M49),2.1-Regional (SDG),0
+64,BTN,Bhutan,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+64,BTN,Bhutan,142,Asia (M49),2.4-Regional (M49),1
+64,BTN,Bhutan,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+64,BTN,Bhutan,515,Developing regions (MDG),2.5-Regional (MDG),1
+64,BTN,Bhutan,1,World,1.0-Global,1
+64,BTN,Bhutan,34,Southern Asia (MDG=M49),2.5-Regional (MDG),1
+64,BTN,Bhutan,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+64,BTN,Bhutan,34,Southern Asia (MDG=M49),2.1-Regional (SDG),1
+68,BOL,Bolivia (Plurinational State of),1,World,1.0-Global,1
+68,BOL,Bolivia (Plurinational State of),515,Developing regions (MDG),2.5-Regional (MDG),1
+68,BOL,Bolivia (Plurinational State of),432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+68,BOL,Bolivia (Plurinational State of),419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+68,BOL,Bolivia (Plurinational State of),419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+68,BOL,Bolivia (Plurinational State of),5,South America (M49),2.4-Regional (M49),1
+68,BOL,Bolivia (Plurinational State of),19,Americas (m49),2.4-Regional (M49),1
+535,BES,"Bonaire, Sint Eustatius and Saba",419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+535,BES,"Bonaire, Sint Eustatius and Saba",29,Caribbean (M49),2.4-Regional (M49),0
+535,BES,"Bonaire, Sint Eustatius and Saba",419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+535,BES,"Bonaire, Sint Eustatius and Saba",515,Developing regions (MDG),2.5-Regional (MDG),0
+535,BES,"Bonaire, Sint Eustatius and Saba",1,World,1.0-Global,0
+535,BES,"Bonaire, Sint Eustatius and Saba",722,Small island developing States (SIDS),2.3-Other groupings,0
+535,BES,"Bonaire, Sint Eustatius and Saba",19,Americas (m49),2.4-Regional (M49),0
+70,BIH,Bosnia and Herzegovina,150,Europe (M49),2.1-Regional (SDG),1
+70,BIH,Bosnia and Herzegovina,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+70,BIH,Bosnia and Herzegovina,514,Developed regions (MDG),2.5-Regional (MDG),1
+70,BIH,Bosnia and Herzegovina,39,Southern Europe (M49),2.4-Regional (M49),1
+70,BIH,Bosnia and Herzegovina,1,World,1.0-Global,1
+72,BWA,Botswana,18,Southern Africa (M49),2.4-Regional (M49),1
+72,BWA,Botswana,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+72,BWA,Botswana,1,World,1.0-Global,1
+72,BWA,Botswana,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+72,BWA,Botswana,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+72,BWA,Botswana,2,Africa (M49),2.4-Regional (M49),1
+72,BWA,Botswana,515,Developing regions (MDG),2.5-Regional (MDG),1
+76,BRA,Brazil,5,South America (M49),2.4-Regional (M49),1
+76,BRA,Brazil,1,World,1.0-Global,1
+76,BRA,Brazil,19,Americas (m49),2.4-Regional (M49),1
+76,BRA,Brazil,515,Developing regions (MDG),2.5-Regional (MDG),1
+76,BRA,Brazil,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+76,BRA,Brazil,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+86,IOT,British Indian Ocean Territory,2,Africa (M49),2.4-Regional (M49),0
+86,IOT,British Indian Ocean Territory,1,World,1.0-Global,0
+86,IOT,British Indian Ocean Territory,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),0
+86,IOT,British Indian Ocean Territory,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),0
+86,IOT,British Indian Ocean Territory,515,Developing regions (MDG),2.5-Regional (MDG),0
+86,IOT,British Indian Ocean Territory,14,Eastern Africa (M49),2.4-Regional (M49),0
+92,VGB,British Virgin Islands,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+92,VGB,British Virgin Islands,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+92,VGB,British Virgin Islands,515,Developing regions (MDG),2.5-Regional (MDG),0
+92,VGB,British Virgin Islands,722,Small island developing States (SIDS),2.3-Other groupings,0
+92,VGB,British Virgin Islands,19,Americas (m49),2.4-Regional (M49),0
+92,VGB,British Virgin Islands,1,World,1.0-Global,0
+92,VGB,British Virgin Islands,29,Caribbean (M49),2.4-Regional (M49),0
+96,BRN,Brunei Darussalam,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+96,BRN,Brunei Darussalam,142,Asia (M49),2.4-Regional (M49),1
+96,BRN,Brunei Darussalam,515,Developing regions (MDG),2.5-Regional (MDG),1
+96,BRN,Brunei Darussalam,1,World,1.0-Global,1
+96,BRN,Brunei Darussalam,35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),1
+96,BRN,Brunei Darussalam,35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+100,BGR,Bulgaria,150,Europe (M49),2.1-Regional (SDG),1
+100,BGR,Bulgaria,151,Eastern Europe (M49),2.4-Regional (M49),1
+100,BGR,Bulgaria,1,World,1.0-Global,1
+100,BGR,Bulgaria,514,Developed regions (MDG),2.5-Regional (MDG),1
+100,BGR,Bulgaria,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+854,BFA,Burkina Faso,515,Developing regions (MDG),2.5-Regional (MDG),1
+854,BFA,Burkina Faso,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+854,BFA,Burkina Faso,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+854,BFA,Burkina Faso,11,Western Africa (M49),2.4-Regional (M49),1
+854,BFA,Burkina Faso,1,World,1.0-Global,1
+854,BFA,Burkina Faso,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+854,BFA,Burkina Faso,2,Africa (M49),2.4-Regional (M49),1
+854,BFA,Burkina Faso,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+108,BDI,Burundi,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+108,BDI,Burundi,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+108,BDI,Burundi,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+108,BDI,Burundi,2,Africa (M49),2.4-Regional (M49),1
+108,BDI,Burundi,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+108,BDI,Burundi,515,Developing regions (MDG),2.5-Regional (MDG),1
+108,BDI,Burundi,14,Eastern Africa (M49),2.4-Regional (M49),1
+108,BDI,Burundi,1,World,1.0-Global,1
+132,CPV,Cabo Verde,11,Western Africa (M49),2.4-Regional (M49),1
+132,CPV,Cabo Verde,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+132,CPV,Cabo Verde,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+132,CPV,Cabo Verde,722,Small island developing States (SIDS),2.3-Other groupings,1
+132,CPV,Cabo Verde,2,Africa (M49),2.4-Regional (M49),1
+132,CPV,Cabo Verde,515,Developing regions (MDG),2.5-Regional (MDG),1
+132,CPV,Cabo Verde,1,World,1.0-Global,1
+116,KHM,Cambodia,35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+116,KHM,Cambodia,142,Asia (M49),2.4-Regional (M49),1
+116,KHM,Cambodia,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+116,KHM,Cambodia,1,World,1.0-Global,1
+116,KHM,Cambodia,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+116,KHM,Cambodia,35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),1
+116,KHM,Cambodia,515,Developing regions (MDG),2.5-Regional (MDG),1
+120,CMR,Cameroon,17,Middle Africa (M49),2.4-Regional (M49),1
+120,CMR,Cameroon,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+120,CMR,Cameroon,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+120,CMR,Cameroon,1,World,1.0-Global,1
+120,CMR,Cameroon,2,Africa (M49),2.4-Regional (M49),1
+120,CMR,Cameroon,515,Developing regions (MDG),2.5-Regional (MDG),1
+124,CAN,Canada,21,Northern America (M49),2.1-Regional (SDG),1
+124,CAN,Canada,1,World,1.0-Global,1
+124,CAN,Canada,19,Americas (m49),2.4-Regional (M49),1
+124,CAN,Canada,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+124,CAN,Canada,514,Developed regions (MDG),2.5-Regional (MDG),1
+136,CYM,Cayman Islands,19,Americas (m49),2.4-Regional (M49),0
+136,CYM,Cayman Islands,29,Caribbean (M49),2.4-Regional (M49),0
+136,CYM,Cayman Islands,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+136,CYM,Cayman Islands,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+136,CYM,Cayman Islands,515,Developing regions (MDG),2.5-Regional (MDG),0
+136,CYM,Cayman Islands,1,World,1.0-Global,0
+140,CAF,Central African Republic,1,World,1.0-Global,1
+140,CAF,Central African Republic,515,Developing regions (MDG),2.5-Regional (MDG),1
+140,CAF,Central African Republic,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+140,CAF,Central African Republic,17,Middle Africa (M49),2.4-Regional (M49),1
+140,CAF,Central African Republic,2,Africa (M49),2.4-Regional (M49),1
+140,CAF,Central African Republic,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+140,CAF,Central African Republic,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+140,CAF,Central African Republic,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+148,TCD,Chad,17,Middle Africa (M49),2.4-Regional (M49),1
+148,TCD,Chad,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+148,TCD,Chad,1,World,1.0-Global,1
+148,TCD,Chad,515,Developing regions (MDG),2.5-Regional (MDG),1
+148,TCD,Chad,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+148,TCD,Chad,2,Africa (M49),2.4-Regional (M49),1
+148,TCD,Chad,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+148,TCD,Chad,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+830,<NA>,Channel Islands,514,Developed regions (MDG),2.5-Regional (MDG),0
+830,<NA>,Channel Islands,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+830,<NA>,Channel Islands,150,Europe (M49),2.1-Regional (SDG),0
+830,<NA>,Channel Islands,1,World,1.0-Global,0
+830,<NA>,Channel Islands,154,Northern Europe (M49),2.4-Regional (M49),0
+152,CHL,Chile,515,Developing regions (MDG),2.5-Regional (MDG),1
+152,CHL,Chile,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+152,CHL,Chile,19,Americas (m49),2.4-Regional (M49),1
+152,CHL,Chile,1,World,1.0-Global,1
+152,CHL,Chile,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+152,CHL,Chile,5,South America (M49),2.4-Regional (M49),1
+156,CHN,China,1,World,1.0-Global,1
+156,CHN,China,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+156,CHN,China,518,Eastern Asia (MDG),2.5-Regional (MDG),1
+156,CHN,China,515,Developing regions (MDG),2.5-Regional (MDG),1
+156,CHN,China,142,Asia (M49),2.4-Regional (M49),1
+156,CHN,China,30,Eastern Asia (M49),2.1-Regional (SDG),1
+344,HKG,"China, Hong Kong Special Administrative Region",1,World,1.0-Global,0
+344,HKG,"China, Hong Kong Special Administrative Region",753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),0
+344,HKG,"China, Hong Kong Special Administrative Region",30,Eastern Asia (M49),2.1-Regional (SDG),0
+344,HKG,"China, Hong Kong Special Administrative Region",518,Eastern Asia (MDG),2.5-Regional (MDG),0
+344,HKG,"China, Hong Kong Special Administrative Region",515,Developing regions (MDG),2.5-Regional (MDG),0
+344,HKG,"China, Hong Kong Special Administrative Region",142,Asia (M49),2.4-Regional (M49),0
+446,MAC,"China, Macao Special Administrative Region",518,Eastern Asia (MDG),2.5-Regional (MDG),0
+446,MAC,"China, Macao Special Administrative Region",753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),0
+446,MAC,"China, Macao Special Administrative Region",30,Eastern Asia (M49),2.1-Regional (SDG),0
+446,MAC,"China, Macao Special Administrative Region",515,Developing regions (MDG),2.5-Regional (MDG),0
+446,MAC,"China, Macao Special Administrative Region",142,Asia (M49),2.4-Regional (M49),0
+446,MAC,"China, Macao Special Administrative Region",1,World,1.0-Global,0
+162,CXR,Christmas Island,514,Developed regions (MDG),2.5-Regional (MDG),0
+162,CXR,Christmas Island,53,Australia and New Zealand (M49),2.1-Regional (SDG),0
+162,CXR,Christmas Island,9,Oceania (M49),2.1-Regional (SDG),0
+162,CXR,Christmas Island,1,World,1.0-Global,0
+166,CCK,Cocos (Keeling) Islands,53,Australia and New Zealand (M49),2.1-Regional (SDG),0
+166,CCK,Cocos (Keeling) Islands,9,Oceania (M49),2.1-Regional (SDG),0
+166,CCK,Cocos (Keeling) Islands,514,Developed regions (MDG),2.5-Regional (MDG),0
+166,CCK,Cocos (Keeling) Islands,1,World,1.0-Global,0
+170,COL,Colombia,515,Developing regions (MDG),2.5-Regional (MDG),1
+170,COL,Colombia,1,World,1.0-Global,1
+170,COL,Colombia,19,Americas (m49),2.4-Regional (M49),1
+170,COL,Colombia,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+170,COL,Colombia,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+170,COL,Colombia,5,South America (M49),2.4-Regional (M49),1
+174,COM,Comoros,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+174,COM,Comoros,515,Developing regions (MDG),2.5-Regional (MDG),1
+174,COM,Comoros,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+174,COM,Comoros,722,Small island developing States (SIDS),2.3-Other groupings,1
+174,COM,Comoros,2,Africa (M49),2.4-Regional (M49),1
+174,COM,Comoros,14,Eastern Africa (M49),2.4-Regional (M49),1
+174,COM,Comoros,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+174,COM,Comoros,1,World,1.0-Global,1
+178,COG,Congo,17,Middle Africa (M49),2.4-Regional (M49),1
+178,COG,Congo,515,Developing regions (MDG),2.5-Regional (MDG),1
+178,COG,Congo,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+178,COG,Congo,1,World,1.0-Global,1
+178,COG,Congo,2,Africa (M49),2.4-Regional (M49),1
+178,COG,Congo,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+184,COK,Cook Islands,9,Oceania (M49),2.1-Regional (SDG),1
+184,COK,Cook Islands,1,World,1.0-Global,1
+184,COK,Cook Islands,515,Developing regions (MDG),2.5-Regional (MDG),1
+184,COK,Cook Islands,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+184,COK,Cook Islands,543,Oceania (MDG),2.5-Regional (MDG),1
+184,COK,Cook Islands,61,Polynesia (M49),2.4-Regional (M49),1
+184,COK,Cook Islands,722,Small island developing States (SIDS),2.3-Other groupings,1
+188,CRI,Costa Rica,1,World,1.0-Global,1
+188,CRI,Costa Rica,13,Central America (M49),2.4-Regional (M49),1
+188,CRI,Costa Rica,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+188,CRI,Costa Rica,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+188,CRI,Costa Rica,515,Developing regions (MDG),2.5-Regional (MDG),1
+188,CRI,Costa Rica,19,Americas (m49),2.4-Regional (M49),1
+191,HRV,Croatia,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+191,HRV,Croatia,514,Developed regions (MDG),2.5-Regional (MDG),1
+191,HRV,Croatia,39,Southern Europe (M49),2.4-Regional (M49),1
+191,HRV,Croatia,150,Europe (M49),2.1-Regional (SDG),1
+191,HRV,Croatia,1,World,1.0-Global,1
+192,CUB,Cuba,19,Americas (m49),2.4-Regional (M49),1
+192,CUB,Cuba,515,Developing regions (MDG),2.5-Regional (MDG),1
+192,CUB,Cuba,722,Small island developing States (SIDS),2.3-Other groupings,1
+192,CUB,Cuba,29,Caribbean (M49),2.4-Regional (M49),1
+192,CUB,Cuba,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+192,CUB,Cuba,1,World,1.0-Global,1
+192,CUB,Cuba,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+531,CUW,Curaçao,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+531,CUW,Curaçao,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+531,CUW,Curaçao,29,Caribbean (M49),2.4-Regional (M49),0
+531,CUW,Curaçao,515,Developing regions (MDG),2.5-Regional (MDG),0
+531,CUW,Curaçao,722,Small island developing States (SIDS),2.3-Other groupings,0
+531,CUW,Curaçao,1,World,1.0-Global,0
+531,CUW,Curaçao,19,Americas (m49),2.4-Regional (M49),0
+196,CYP,Cyprus,514,Developed regions (MDG),2.5-Regional (MDG),1
+196,CYP,Cyprus,142,Asia (M49),2.4-Regional (M49),1
+196,CYP,Cyprus,145,Western Asia (M49),2.1-Regional (SDG),1
+196,CYP,Cyprus,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+196,CYP,Cyprus,1,World,1.0-Global,1
+203,CZE,Czechia,1,World,1.0-Global,1
+203,CZE,Czechia,150,Europe (M49),2.1-Regional (SDG),1
+203,CZE,Czechia,514,Developed regions (MDG),2.5-Regional (MDG),1
+203,CZE,Czechia,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+203,CZE,Czechia,151,Eastern Europe (M49),2.4-Regional (M49),1
+384,CIV,Côte d'Ivoire,2,Africa (M49),2.4-Regional (M49),1
+384,CIV,Côte d'Ivoire,1,World,1.0-Global,1
+384,CIV,Côte d'Ivoire,515,Developing regions (MDG),2.5-Regional (MDG),1
+384,CIV,Côte d'Ivoire,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+384,CIV,Côte d'Ivoire,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+384,CIV,Côte d'Ivoire,11,Western Africa (M49),2.4-Regional (M49),1
+408,PRK,Democratic People's Republic of Korea,1,World,1.0-Global,1
+408,PRK,Democratic People's Republic of Korea,515,Developing regions (MDG),2.5-Regional (MDG),1
+408,PRK,Democratic People's Republic of Korea,30,Eastern Asia (M49),2.1-Regional (SDG),1
+408,PRK,Democratic People's Republic of Korea,518,Eastern Asia (MDG),2.5-Regional (MDG),1
+408,PRK,Democratic People's Republic of Korea,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+408,PRK,Democratic People's Republic of Korea,142,Asia (M49),2.4-Regional (M49),1
+180,COD,Democratic Republic of the Congo,2,Africa (M49),2.4-Regional (M49),1
+180,COD,Democratic Republic of the Congo,1,World,1.0-Global,1
+180,COD,Democratic Republic of the Congo,515,Developing regions (MDG),2.5-Regional (MDG),1
+180,COD,Democratic Republic of the Congo,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+180,COD,Democratic Republic of the Congo,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+180,COD,Democratic Republic of the Congo,17,Middle Africa (M49),2.4-Regional (M49),1
+180,COD,Democratic Republic of the Congo,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+208,DNK,Denmark,1,World,1.0-Global,1
+208,DNK,Denmark,150,Europe (M49),2.1-Regional (SDG),1
+208,DNK,Denmark,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+208,DNK,Denmark,154,Northern Europe (M49),2.4-Regional (M49),1
+208,DNK,Denmark,514,Developed regions (MDG),2.5-Regional (MDG),1
+262,DJI,Djibouti,2,Africa (M49),2.4-Regional (M49),1
+262,DJI,Djibouti,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+262,DJI,Djibouti,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+262,DJI,Djibouti,14,Eastern Africa (M49),2.4-Regional (M49),1
+262,DJI,Djibouti,1,World,1.0-Global,1
+262,DJI,Djibouti,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+262,DJI,Djibouti,515,Developing regions (MDG),2.5-Regional (MDG),1
+212,DMA,Dominica,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+212,DMA,Dominica,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+212,DMA,Dominica,515,Developing regions (MDG),2.5-Regional (MDG),1
+212,DMA,Dominica,1,World,1.0-Global,1
+212,DMA,Dominica,19,Americas (m49),2.4-Regional (M49),1
+212,DMA,Dominica,29,Caribbean (M49),2.4-Regional (M49),1
+212,DMA,Dominica,722,Small island developing States (SIDS),2.3-Other groupings,1
+214,DOM,Dominican Republic,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+214,DOM,Dominican Republic,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+214,DOM,Dominican Republic,722,Small island developing States (SIDS),2.3-Other groupings,1
+214,DOM,Dominican Republic,1,World,1.0-Global,1
+214,DOM,Dominican Republic,29,Caribbean (M49),2.4-Regional (M49),1
+214,DOM,Dominican Republic,19,Americas (m49),2.4-Regional (M49),1
+214,DOM,Dominican Republic,515,Developing regions (MDG),2.5-Regional (MDG),1
+218,ECU,Ecuador,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+218,ECU,Ecuador,5,South America (M49),2.4-Regional (M49),1
+218,ECU,Ecuador,19,Americas (m49),2.4-Regional (M49),1
+218,ECU,Ecuador,1,World,1.0-Global,1
+218,ECU,Ecuador,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+218,ECU,Ecuador,515,Developing regions (MDG),2.5-Regional (MDG),1
+818,EGY,Egypt,2,Africa (M49),2.4-Regional (M49),1
+818,EGY,Egypt,15,Northern Africa (M49),2.1-Regional (SDG),1
+818,EGY,Egypt,515,Developing regions (MDG),2.5-Regional (MDG),1
+818,EGY,Egypt,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+818,EGY,Egypt,1,World,1.0-Global,1
+818,EGY,Egypt,746,Northern Africa (MDG),2.5-Regional (MDG),1
+222,SLV,El Salvador,1,World,1.0-Global,1
+222,SLV,El Salvador,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+222,SLV,El Salvador,19,Americas (m49),2.4-Regional (M49),1
+222,SLV,El Salvador,515,Developing regions (MDG),2.5-Regional (MDG),1
+222,SLV,El Salvador,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+222,SLV,El Salvador,13,Central America (M49),2.4-Regional (M49),1
+226,GNQ,Equatorial Guinea,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+226,GNQ,Equatorial Guinea,1,World,1.0-Global,1
+226,GNQ,Equatorial Guinea,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+226,GNQ,Equatorial Guinea,17,Middle Africa (M49),2.4-Regional (M49),1
+226,GNQ,Equatorial Guinea,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+226,GNQ,Equatorial Guinea,515,Developing regions (MDG),2.5-Regional (MDG),1
+226,GNQ,Equatorial Guinea,2,Africa (M49),2.4-Regional (M49),1
+232,ERI,Eritrea,515,Developing regions (MDG),2.5-Regional (MDG),1
+232,ERI,Eritrea,1,World,1.0-Global,1
+232,ERI,Eritrea,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+232,ERI,Eritrea,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+232,ERI,Eritrea,14,Eastern Africa (M49),2.4-Regional (M49),1
+232,ERI,Eritrea,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+232,ERI,Eritrea,2,Africa (M49),2.4-Regional (M49),1
+233,EST,Estonia,154,Northern Europe (M49),2.4-Regional (M49),1
+233,EST,Estonia,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+233,EST,Estonia,150,Europe (M49),2.1-Regional (SDG),1
+233,EST,Estonia,514,Developed regions (MDG),2.5-Regional (MDG),1
+233,EST,Estonia,1,World,1.0-Global,1
+231,ETH,Ethiopia,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+231,ETH,Ethiopia,515,Developing regions (MDG),2.5-Regional (MDG),1
+231,ETH,Ethiopia,14,Eastern Africa (M49),2.4-Regional (M49),1
+231,ETH,Ethiopia,2,Africa (M49),2.4-Regional (M49),1
+231,ETH,Ethiopia,1,World,1.0-Global,1
+231,ETH,Ethiopia,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+231,ETH,Ethiopia,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+231,ETH,Ethiopia,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+238,FLK,Falkland Islands (Malvinas),419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+238,FLK,Falkland Islands (Malvinas),419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+238,FLK,Falkland Islands (Malvinas),5,South America (M49),2.4-Regional (M49),0
+238,FLK,Falkland Islands (Malvinas),19,Americas (m49),2.4-Regional (M49),0
+238,FLK,Falkland Islands (Malvinas),1,World,1.0-Global,0
+238,FLK,Falkland Islands (Malvinas),515,Developing regions (MDG),2.5-Regional (MDG),0
+234,FRO,Faroe Islands,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+234,FRO,Faroe Islands,154,Northern Europe (M49),2.4-Regional (M49),1
+234,FRO,Faroe Islands,1,World,1.0-Global,1
+234,FRO,Faroe Islands,150,Europe (M49),2.1-Regional (SDG),1
+234,FRO,Faroe Islands,514,Developed regions (MDG),2.5-Regional (MDG),1
+242,FJI,Fiji,9,Oceania (M49),2.1-Regional (SDG),1
+242,FJI,Fiji,515,Developing regions (MDG),2.5-Regional (MDG),1
+242,FJI,Fiji,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+242,FJI,Fiji,54,Melanesia (M49),2.4-Regional (M49),1
+242,FJI,Fiji,1,World,1.0-Global,1
+242,FJI,Fiji,722,Small island developing States (SIDS),2.3-Other groupings,1
+242,FJI,Fiji,543,Oceania (MDG),2.5-Regional (MDG),1
+246,FIN,Finland,150,Europe (M49),2.1-Regional (SDG),1
+246,FIN,Finland,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+246,FIN,Finland,154,Northern Europe (M49),2.4-Regional (M49),1
+246,FIN,Finland,1,World,1.0-Global,1
+246,FIN,Finland,514,Developed regions (MDG),2.5-Regional (MDG),1
+250,FRA,France,1,World,1.0-Global,1
+250,FRA,France,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+250,FRA,France,150,Europe (M49),2.1-Regional (SDG),1
+250,FRA,France,155,Western Europe (M49),2.4-Regional (M49),1
+250,FRA,France,514,Developed regions (MDG),2.5-Regional (MDG),1
+254,GUF,French Guiana,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+254,GUF,French Guiana,515,Developing regions (MDG),2.5-Regional (MDG),0
+254,GUF,French Guiana,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+254,GUF,French Guiana,5,South America (M49),2.4-Regional (M49),0
+254,GUF,French Guiana,19,Americas (m49),2.4-Regional (M49),0
+254,GUF,French Guiana,1,World,1.0-Global,0
+258,PYF,French Polynesia,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),0
+258,PYF,French Polynesia,722,Small island developing States (SIDS),2.3-Other groupings,0
+258,PYF,French Polynesia,515,Developing regions (MDG),2.5-Regional (MDG),0
+258,PYF,French Polynesia,9,Oceania (M49),2.1-Regional (SDG),0
+258,PYF,French Polynesia,61,Polynesia (M49),2.4-Regional (M49),0
+258,PYF,French Polynesia,543,Oceania (MDG),2.5-Regional (MDG),0
+258,PYF,French Polynesia,1,World,1.0-Global,0
+260,ATF,French Southern and Antarctic Territories,515,Developing regions (MDG),2.5-Regional (MDG),0
+260,ATF,French Southern and Antarctic Territories,2,Africa (M49),2.4-Regional (M49),0
+260,ATF,French Southern and Antarctic Territories,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),0
+260,ATF,French Southern and Antarctic Territories,14,Eastern Africa (M49),2.4-Regional (M49),0
+260,ATF,French Southern and Antarctic Territories,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),0
+260,ATF,French Southern and Antarctic Territories,1,World,1.0-Global,0
+266,GAB,Gabon,2,Africa (M49),2.4-Regional (M49),1
+266,GAB,Gabon,17,Middle Africa (M49),2.4-Regional (M49),1
+266,GAB,Gabon,1,World,1.0-Global,1
+266,GAB,Gabon,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+266,GAB,Gabon,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+266,GAB,Gabon,515,Developing regions (MDG),2.5-Regional (MDG),1
+270,GMB,Gambia,2,Africa (M49),2.4-Regional (M49),1
+270,GMB,Gambia,11,Western Africa (M49),2.4-Regional (M49),1
+270,GMB,Gambia,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+270,GMB,Gambia,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+270,GMB,Gambia,1,World,1.0-Global,1
+270,GMB,Gambia,515,Developing regions (MDG),2.5-Regional (MDG),1
+270,GMB,Gambia,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+268,GEO,Georgia,142,Asia (M49),2.4-Regional (M49),1
+268,GEO,Georgia,515,Developing regions (MDG),2.5-Regional (MDG),1
+268,GEO,Georgia,135,Caucasus and Central Asia (MDG),2.5-Regional (MDG),1
+268,GEO,Georgia,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+268,GEO,Georgia,1,World,1.0-Global,1
+268,GEO,Georgia,145,Western Asia (M49),2.1-Regional (SDG),1
+276,DEU,Germany,155,Western Europe (M49),2.4-Regional (M49),1
+276,DEU,Germany,514,Developed regions (MDG),2.5-Regional (MDG),1
+276,DEU,Germany,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+276,DEU,Germany,1,World,1.0-Global,1
+276,DEU,Germany,150,Europe (M49),2.1-Regional (SDG),1
+288,GHA,Ghana,1,World,1.0-Global,1
+288,GHA,Ghana,11,Western Africa (M49),2.4-Regional (M49),1
+288,GHA,Ghana,515,Developing regions (MDG),2.5-Regional (MDG),1
+288,GHA,Ghana,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+288,GHA,Ghana,2,Africa (M49),2.4-Regional (M49),1
+288,GHA,Ghana,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+292,GIB,Gibraltar,514,Developed regions (MDG),2.5-Regional (MDG),0
+292,GIB,Gibraltar,39,Southern Europe (M49),2.4-Regional (M49),0
+292,GIB,Gibraltar,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+292,GIB,Gibraltar,1,World,1.0-Global,0
+292,GIB,Gibraltar,150,Europe (M49),2.1-Regional (SDG),0
+300,GRC,Greece,39,Southern Europe (M49),2.4-Regional (M49),1
+300,GRC,Greece,514,Developed regions (MDG),2.5-Regional (MDG),1
+300,GRC,Greece,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+300,GRC,Greece,150,Europe (M49),2.1-Regional (SDG),1
+300,GRC,Greece,1,World,1.0-Global,1
+304,GRL,Greenland,21,Northern America (M49),2.1-Regional (SDG),0
+304,GRL,Greenland,1,World,1.0-Global,0
+304,GRL,Greenland,514,Developed regions (MDG),2.5-Regional (MDG),0
+304,GRL,Greenland,19,Americas (m49),2.4-Regional (M49),0
+304,GRL,Greenland,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+308,GRD,Grenada,722,Small island developing States (SIDS),2.3-Other groupings,1
+308,GRD,Grenada,515,Developing regions (MDG),2.5-Regional (MDG),1
+308,GRD,Grenada,29,Caribbean (M49),2.4-Regional (M49),1
+308,GRD,Grenada,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+308,GRD,Grenada,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+308,GRD,Grenada,19,Americas (m49),2.4-Regional (M49),1
+308,GRD,Grenada,1,World,1.0-Global,1
+312,GLP,Guadeloupe,19,Americas (m49),2.4-Regional (M49),0
+312,GLP,Guadeloupe,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+312,GLP,Guadeloupe,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+312,GLP,Guadeloupe,29,Caribbean (M49),2.4-Regional (M49),0
+312,GLP,Guadeloupe,1,World,1.0-Global,0
+312,GLP,Guadeloupe,515,Developing regions (MDG),2.5-Regional (MDG),0
+316,GUM,Guam,722,Small island developing States (SIDS),2.3-Other groupings,0
+316,GUM,Guam,543,Oceania (MDG),2.5-Regional (MDG),0
+316,GUM,Guam,515,Developing regions (MDG),2.5-Regional (MDG),0
+316,GUM,Guam,57,Micronesia (M49),2.4-Regional (M49),0
+316,GUM,Guam,9,Oceania (M49),2.1-Regional (SDG),0
+316,GUM,Guam,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),0
+316,GUM,Guam,1,World,1.0-Global,0
+320,GTM,Guatemala,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+320,GTM,Guatemala,1,World,1.0-Global,1
+320,GTM,Guatemala,19,Americas (m49),2.4-Regional (M49),1
+320,GTM,Guatemala,13,Central America (M49),2.4-Regional (M49),1
+320,GTM,Guatemala,515,Developing regions (MDG),2.5-Regional (MDG),1
+320,GTM,Guatemala,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+831,GGY,Guernsey,154,Northern Europe (M49),2.4-Regional (M49),0
+831,GGY,Guernsey,150,Europe (M49),2.1-Regional (SDG),0
+831,GGY,Guernsey,1,World,1.0-Global,0
+831,GGY,Guernsey,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+831,GGY,Guernsey,514,Developed regions (MDG),2.5-Regional (MDG),0
+324,GIN,Guinea,11,Western Africa (M49),2.4-Regional (M49),1
+324,GIN,Guinea,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+324,GIN,Guinea,515,Developing regions (MDG),2.5-Regional (MDG),1
+324,GIN,Guinea,2,Africa (M49),2.4-Regional (M49),1
+324,GIN,Guinea,1,World,1.0-Global,1
+324,GIN,Guinea,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+324,GIN,Guinea,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+624,GNB,Guinea-Bissau,515,Developing regions (MDG),2.5-Regional (MDG),1
+624,GNB,Guinea-Bissau,1,World,1.0-Global,1
+624,GNB,Guinea-Bissau,722,Small island developing States (SIDS),2.3-Other groupings,1
+624,GNB,Guinea-Bissau,2,Africa (M49),2.4-Regional (M49),1
+624,GNB,Guinea-Bissau,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+624,GNB,Guinea-Bissau,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+624,GNB,Guinea-Bissau,11,Western Africa (M49),2.4-Regional (M49),1
+624,GNB,Guinea-Bissau,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+328,GUY,Guyana,1,World,1.0-Global,1
+328,GUY,Guyana,515,Developing regions (MDG),2.5-Regional (MDG),1
+328,GUY,Guyana,19,Americas (m49),2.4-Regional (M49),1
+328,GUY,Guyana,722,Small island developing States (SIDS),2.3-Other groupings,1
+328,GUY,Guyana,5,South America (M49),2.4-Regional (M49),1
+328,GUY,Guyana,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+328,GUY,Guyana,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+332,HTI,Haiti,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+332,HTI,Haiti,515,Developing regions (MDG),2.5-Regional (MDG),1
+332,HTI,Haiti,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+332,HTI,Haiti,19,Americas (m49),2.4-Regional (M49),1
+332,HTI,Haiti,29,Caribbean (M49),2.4-Regional (M49),1
+332,HTI,Haiti,722,Small island developing States (SIDS),2.3-Other groupings,1
+332,HTI,Haiti,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+332,HTI,Haiti,1,World,1.0-Global,1
+334,HMD,Heard Island and McDonald Islands,53,Australia and New Zealand (M49),2.1-Regional (SDG),0
+334,HMD,Heard Island and McDonald Islands,9,Oceania (M49),2.1-Regional (SDG),0
+334,HMD,Heard Island and McDonald Islands,514,Developed regions (MDG),2.5-Regional (MDG),0
+334,HMD,Heard Island and McDonald Islands,1,World,1.0-Global,0
+336,VAT,Holy See,39,Southern Europe (M49),2.4-Regional (M49),0
+336,VAT,Holy See,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+336,VAT,Holy See,1,World,1.0-Global,0
+336,VAT,Holy See,514,Developed regions (MDG),2.5-Regional (MDG),0
+336,VAT,Holy See,150,Europe (M49),2.1-Regional (SDG),0
+340,HND,Honduras,13,Central America (M49),2.4-Regional (M49),1
+340,HND,Honduras,19,Americas (m49),2.4-Regional (M49),1
+340,HND,Honduras,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+340,HND,Honduras,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+340,HND,Honduras,1,World,1.0-Global,1
+340,HND,Honduras,515,Developing regions (MDG),2.5-Regional (MDG),1
+348,HUN,Hungary,151,Eastern Europe (M49),2.4-Regional (M49),1
+348,HUN,Hungary,1,World,1.0-Global,1
+348,HUN,Hungary,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+348,HUN,Hungary,514,Developed regions (MDG),2.5-Regional (MDG),1
+348,HUN,Hungary,150,Europe (M49),2.1-Regional (SDG),1
+352,ISL,Iceland,514,Developed regions (MDG),2.5-Regional (MDG),1
+352,ISL,Iceland,150,Europe (M49),2.1-Regional (SDG),1
+352,ISL,Iceland,1,World,1.0-Global,1
+352,ISL,Iceland,154,Northern Europe (M49),2.4-Regional (M49),1
+352,ISL,Iceland,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+356,IND,India,34,Southern Asia (MDG=M49),2.5-Regional (MDG),1
+356,IND,India,142,Asia (M49),2.4-Regional (M49),1
+356,IND,India,515,Developing regions (MDG),2.5-Regional (MDG),1
+356,IND,India,34,Southern Asia (MDG=M49),2.1-Regional (SDG),1
+356,IND,India,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+356,IND,India,1,World,1.0-Global,1
+360,IDN,Indonesia,35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),1
+360,IDN,Indonesia,142,Asia (M49),2.4-Regional (M49),1
+360,IDN,Indonesia,1,World,1.0-Global,1
+360,IDN,Indonesia,35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+360,IDN,Indonesia,515,Developing regions (MDG),2.5-Regional (MDG),1
+360,IDN,Indonesia,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+364,IRN,Iran (Islamic Republic of),34,Southern Asia (MDG=M49),2.1-Regional (SDG),1
+364,IRN,Iran (Islamic Republic of),62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+364,IRN,Iran (Islamic Republic of),142,Asia (M49),2.4-Regional (M49),1
+364,IRN,Iran (Islamic Republic of),34,Southern Asia (MDG=M49),2.5-Regional (MDG),1
+364,IRN,Iran (Islamic Republic of),1,World,1.0-Global,1
+364,IRN,Iran (Islamic Republic of),515,Developing regions (MDG),2.5-Regional (MDG),1
+368,IRQ,Iraq,485,Western Asia (MDG),2.5-Regional (MDG),1
+368,IRQ,Iraq,1,World,1.0-Global,1
+368,IRQ,Iraq,515,Developing regions (MDG),2.5-Regional (MDG),1
+368,IRQ,Iraq,145,Western Asia (M49),2.1-Regional (SDG),1
+368,IRQ,Iraq,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+368,IRQ,Iraq,142,Asia (M49),2.4-Regional (M49),1
+372,IRL,Ireland,154,Northern Europe (M49),2.4-Regional (M49),1
+372,IRL,Ireland,1,World,1.0-Global,1
+372,IRL,Ireland,150,Europe (M49),2.1-Regional (SDG),1
+372,IRL,Ireland,514,Developed regions (MDG),2.5-Regional (MDG),1
+372,IRL,Ireland,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+833,IMN,Isle of Man,154,Northern Europe (M49),2.4-Regional (M49),0
+833,IMN,Isle of Man,514,Developed regions (MDG),2.5-Regional (MDG),0
+833,IMN,Isle of Man,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+833,IMN,Isle of Man,150,Europe (M49),2.1-Regional (SDG),0
+833,IMN,Isle of Man,1,World,1.0-Global,0
+376,ISR,Israel,1,World,1.0-Global,1
+376,ISR,Israel,145,Western Asia (M49),2.1-Regional (SDG),1
+376,ISR,Israel,514,Developed regions (MDG),2.5-Regional (MDG),1
+376,ISR,Israel,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+376,ISR,Israel,142,Asia (M49),2.4-Regional (M49),1
+380,ITA,Italy,39,Southern Europe (M49),2.4-Regional (M49),1
+380,ITA,Italy,1,World,1.0-Global,1
+380,ITA,Italy,514,Developed regions (MDG),2.5-Regional (MDG),1
+380,ITA,Italy,150,Europe (M49),2.1-Regional (SDG),1
+380,ITA,Italy,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+388,JAM,Jamaica,29,Caribbean (M49),2.4-Regional (M49),1
+388,JAM,Jamaica,722,Small island developing States (SIDS),2.3-Other groupings,1
+388,JAM,Jamaica,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+388,JAM,Jamaica,515,Developing regions (MDG),2.5-Regional (MDG),1
+388,JAM,Jamaica,19,Americas (m49),2.4-Regional (M49),1
+388,JAM,Jamaica,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+388,JAM,Jamaica,1,World,1.0-Global,1
+392,JPN,Japan,142,Asia (M49),2.4-Regional (M49),1
+392,JPN,Japan,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+392,JPN,Japan,1,World,1.0-Global,1
+392,JPN,Japan,514,Developed regions (MDG),2.5-Regional (MDG),1
+392,JPN,Japan,30,Eastern Asia (M49),2.1-Regional (SDG),1
+832,JEY,Jersey,1,World,1.0-Global,0
+832,JEY,Jersey,150,Europe (M49),2.1-Regional (SDG),0
+832,JEY,Jersey,514,Developed regions (MDG),2.5-Regional (MDG),0
+832,JEY,Jersey,154,Northern Europe (M49),2.4-Regional (M49),0
+832,JEY,Jersey,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+400,JOR,Jordan,142,Asia (M49),2.4-Regional (M49),1
+400,JOR,Jordan,145,Western Asia (M49),2.1-Regional (SDG),1
+400,JOR,Jordan,485,Western Asia (MDG),2.5-Regional (MDG),1
+400,JOR,Jordan,515,Developing regions (MDG),2.5-Regional (MDG),1
+400,JOR,Jordan,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+400,JOR,Jordan,1,World,1.0-Global,1
+398,KAZ,Kazakhstan,143,Central Asia (M49),2.1-Regional (SDG),1
+398,KAZ,Kazakhstan,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+398,KAZ,Kazakhstan,142,Asia (M49),2.4-Regional (M49),1
+398,KAZ,Kazakhstan,515,Developing regions (MDG),2.5-Regional (MDG),1
+398,KAZ,Kazakhstan,1,World,1.0-Global,1
+398,KAZ,Kazakhstan,135,Caucasus and Central Asia (MDG),2.5-Regional (MDG),1
+398,KAZ,Kazakhstan,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+404,KEN,Kenya,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+404,KEN,Kenya,2,Africa (M49),2.4-Regional (M49),1
+404,KEN,Kenya,515,Developing regions (MDG),2.5-Regional (MDG),1
+404,KEN,Kenya,1,World,1.0-Global,1
+404,KEN,Kenya,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+404,KEN,Kenya,14,Eastern Africa (M49),2.4-Regional (M49),1
+296,KIR,Kiribati,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+296,KIR,Kiribati,722,Small island developing States (SIDS),2.3-Other groupings,1
+296,KIR,Kiribati,57,Micronesia (M49),2.4-Regional (M49),1
+296,KIR,Kiribati,543,Oceania (MDG),2.5-Regional (MDG),1
+296,KIR,Kiribati,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+296,KIR,Kiribati,9,Oceania (M49),2.1-Regional (SDG),1
+296,KIR,Kiribati,1,World,1.0-Global,1
+296,KIR,Kiribati,515,Developing regions (MDG),2.5-Regional (MDG),1
+414,KWT,Kuwait,1,World,1.0-Global,1
+414,KWT,Kuwait,485,Western Asia (MDG),2.5-Regional (MDG),1
+414,KWT,Kuwait,515,Developing regions (MDG),2.5-Regional (MDG),1
+414,KWT,Kuwait,145,Western Asia (M49),2.1-Regional (SDG),1
+414,KWT,Kuwait,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+414,KWT,Kuwait,142,Asia (M49),2.4-Regional (M49),1
+417,KGZ,Kyrgyzstan,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+417,KGZ,Kyrgyzstan,143,Central Asia (M49),2.1-Regional (SDG),1
+417,KGZ,Kyrgyzstan,142,Asia (M49),2.4-Regional (M49),1
+417,KGZ,Kyrgyzstan,515,Developing regions (MDG),2.5-Regional (MDG),1
+417,KGZ,Kyrgyzstan,135,Caucasus and Central Asia (MDG),2.5-Regional (MDG),1
+417,KGZ,Kyrgyzstan,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+417,KGZ,Kyrgyzstan,1,World,1.0-Global,1
+418,LAO,Lao People's Democratic Republic,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+418,LAO,Lao People's Democratic Republic,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+418,LAO,Lao People's Democratic Republic,515,Developing regions (MDG),2.5-Regional (MDG),1
+418,LAO,Lao People's Democratic Republic,35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),1
+418,LAO,Lao People's Democratic Republic,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+418,LAO,Lao People's Democratic Republic,35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+418,LAO,Lao People's Democratic Republic,1,World,1.0-Global,1
+418,LAO,Lao People's Democratic Republic,142,Asia (M49),2.4-Regional (M49),1
+428,LVA,Latvia,1,World,1.0-Global,1
+428,LVA,Latvia,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+428,LVA,Latvia,150,Europe (M49),2.1-Regional (SDG),1
+428,LVA,Latvia,514,Developed regions (MDG),2.5-Regional (MDG),1
+428,LVA,Latvia,154,Northern Europe (M49),2.4-Regional (M49),1
+422,LBN,Lebanon,145,Western Asia (M49),2.1-Regional (SDG),1
+422,LBN,Lebanon,142,Asia (M49),2.4-Regional (M49),1
+422,LBN,Lebanon,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+422,LBN,Lebanon,485,Western Asia (MDG),2.5-Regional (MDG),1
+422,LBN,Lebanon,515,Developing regions (MDG),2.5-Regional (MDG),1
+422,LBN,Lebanon,1,World,1.0-Global,1
+426,LSO,Lesotho,515,Developing regions (MDG),2.5-Regional (MDG),1
+426,LSO,Lesotho,1,World,1.0-Global,1
+426,LSO,Lesotho,18,Southern Africa (M49),2.4-Regional (M49),1
+426,LSO,Lesotho,2,Africa (M49),2.4-Regional (M49),1
+426,LSO,Lesotho,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+426,LSO,Lesotho,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+426,LSO,Lesotho,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+426,LSO,Lesotho,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+430,LBR,Liberia,2,Africa (M49),2.4-Regional (M49),1
+430,LBR,Liberia,11,Western Africa (M49),2.4-Regional (M49),1
+430,LBR,Liberia,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+430,LBR,Liberia,1,World,1.0-Global,1
+430,LBR,Liberia,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+430,LBR,Liberia,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+430,LBR,Liberia,515,Developing regions (MDG),2.5-Regional (MDG),1
+434,LBY,Libya,515,Developing regions (MDG),2.5-Regional (MDG),1
+434,LBY,Libya,15,Northern Africa (M49),2.1-Regional (SDG),1
+434,LBY,Libya,2,Africa (M49),2.4-Regional (M49),1
+434,LBY,Libya,746,Northern Africa (MDG),2.5-Regional (MDG),1
+434,LBY,Libya,1,World,1.0-Global,1
+434,LBY,Libya,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+438,LIE,Liechtenstein,155,Western Europe (M49),2.4-Regional (M49),0
+438,LIE,Liechtenstein,1,World,1.0-Global,0
+438,LIE,Liechtenstein,514,Developed regions (MDG),2.5-Regional (MDG),0
+438,LIE,Liechtenstein,150,Europe (M49),2.1-Regional (SDG),0
+438,LIE,Liechtenstein,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+440,LTU,Lithuania,1,World,1.0-Global,1
+440,LTU,Lithuania,514,Developed regions (MDG),2.5-Regional (MDG),1
+440,LTU,Lithuania,150,Europe (M49),2.1-Regional (SDG),1
+440,LTU,Lithuania,154,Northern Europe (M49),2.4-Regional (M49),1
+440,LTU,Lithuania,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+442,LUX,Luxembourg,150,Europe (M49),2.1-Regional (SDG),1
+442,LUX,Luxembourg,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+442,LUX,Luxembourg,155,Western Europe (M49),2.4-Regional (M49),1
+442,LUX,Luxembourg,1,World,1.0-Global,1
+442,LUX,Luxembourg,514,Developed regions (MDG),2.5-Regional (MDG),1
+450,MDG,Madagascar,515,Developing regions (MDG),2.5-Regional (MDG),1
+450,MDG,Madagascar,2,Africa (M49),2.4-Regional (M49),1
+450,MDG,Madagascar,1,World,1.0-Global,1
+450,MDG,Madagascar,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+450,MDG,Madagascar,14,Eastern Africa (M49),2.4-Regional (M49),1
+450,MDG,Madagascar,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+450,MDG,Madagascar,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+454,MWI,Malawi,1,World,1.0-Global,1
+454,MWI,Malawi,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+454,MWI,Malawi,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+454,MWI,Malawi,14,Eastern Africa (M49),2.4-Regional (M49),1
+454,MWI,Malawi,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+454,MWI,Malawi,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+454,MWI,Malawi,515,Developing regions (MDG),2.5-Regional (MDG),1
+454,MWI,Malawi,2,Africa (M49),2.4-Regional (M49),1
+458,MYS,Malaysia,515,Developing regions (MDG),2.5-Regional (MDG),1
+458,MYS,Malaysia,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+458,MYS,Malaysia,142,Asia (M49),2.4-Regional (M49),1
+458,MYS,Malaysia,35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+458,MYS,Malaysia,35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),1
+458,MYS,Malaysia,1,World,1.0-Global,1
+462,MDV,Maldives,515,Developing regions (MDG),2.5-Regional (MDG),1
+462,MDV,Maldives,34,Southern Asia (MDG=M49),2.1-Regional (SDG),1
+462,MDV,Maldives,34,Southern Asia (MDG=M49),2.5-Regional (MDG),1
+462,MDV,Maldives,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+462,MDV,Maldives,722,Small island developing States (SIDS),2.3-Other groupings,1
+462,MDV,Maldives,142,Asia (M49),2.4-Regional (M49),1
+462,MDV,Maldives,1,World,1.0-Global,1
+466,MLI,Mali,2,Africa (M49),2.4-Regional (M49),1
+466,MLI,Mali,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+466,MLI,Mali,515,Developing regions (MDG),2.5-Regional (MDG),1
+466,MLI,Mali,11,Western Africa (M49),2.4-Regional (M49),1
+466,MLI,Mali,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+466,MLI,Mali,1,World,1.0-Global,1
+466,MLI,Mali,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+466,MLI,Mali,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+470,MLT,Malta,514,Developed regions (MDG),2.5-Regional (MDG),1
+470,MLT,Malta,150,Europe (M49),2.1-Regional (SDG),1
+470,MLT,Malta,1,World,1.0-Global,1
+470,MLT,Malta,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+470,MLT,Malta,39,Southern Europe (M49),2.4-Regional (M49),1
+584,MHL,Marshall Islands,57,Micronesia (M49),2.4-Regional (M49),1
+584,MHL,Marshall Islands,543,Oceania (MDG),2.5-Regional (MDG),1
+584,MHL,Marshall Islands,722,Small island developing States (SIDS),2.3-Other groupings,1
+584,MHL,Marshall Islands,515,Developing regions (MDG),2.5-Regional (MDG),1
+584,MHL,Marshall Islands,9,Oceania (M49),2.1-Regional (SDG),1
+584,MHL,Marshall Islands,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+584,MHL,Marshall Islands,1,World,1.0-Global,1
+474,MTQ,Martinique,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+474,MTQ,Martinique,29,Caribbean (M49),2.4-Regional (M49),0
+474,MTQ,Martinique,1,World,1.0-Global,0
+474,MTQ,Martinique,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+474,MTQ,Martinique,515,Developing regions (MDG),2.5-Regional (MDG),0
+474,MTQ,Martinique,19,Americas (m49),2.4-Regional (M49),0
+478,MRT,Mauritania,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+478,MRT,Mauritania,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+478,MRT,Mauritania,1,World,1.0-Global,1
+478,MRT,Mauritania,515,Developing regions (MDG),2.5-Regional (MDG),1
+478,MRT,Mauritania,11,Western Africa (M49),2.4-Regional (M49),1
+478,MRT,Mauritania,2,Africa (M49),2.4-Regional (M49),1
+478,MRT,Mauritania,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+480,MUS,Mauritius,515,Developing regions (MDG),2.5-Regional (MDG),1
+480,MUS,Mauritius,2,Africa (M49),2.4-Regional (M49),1
+480,MUS,Mauritius,722,Small island developing States (SIDS),2.3-Other groupings,1
+480,MUS,Mauritius,1,World,1.0-Global,1
+480,MUS,Mauritius,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+480,MUS,Mauritius,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+480,MUS,Mauritius,14,Eastern Africa (M49),2.4-Regional (M49),1
+175,MYT,Mayotte,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),0
+175,MYT,Mayotte,515,Developing regions (MDG),2.5-Regional (MDG),0
+175,MYT,Mayotte,14,Eastern Africa (M49),2.4-Regional (M49),0
+175,MYT,Mayotte,1,World,1.0-Global,0
+175,MYT,Mayotte,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),0
+175,MYT,Mayotte,2,Africa (M49),2.4-Regional (M49),0
+484,MEX,Mexico,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+484,MEX,Mexico,1,World,1.0-Global,1
+484,MEX,Mexico,19,Americas (m49),2.4-Regional (M49),1
+484,MEX,Mexico,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+484,MEX,Mexico,515,Developing regions (MDG),2.5-Regional (MDG),1
+484,MEX,Mexico,13,Central America (M49),2.4-Regional (M49),1
+583,FSM,Micronesia (Federated States of),543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+583,FSM,Micronesia (Federated States of),1,World,1.0-Global,1
+583,FSM,Micronesia (Federated States of),543,Oceania (MDG),2.5-Regional (MDG),1
+583,FSM,Micronesia (Federated States of),515,Developing regions (MDG),2.5-Regional (MDG),1
+583,FSM,Micronesia (Federated States of),9,Oceania (M49),2.1-Regional (SDG),1
+583,FSM,Micronesia (Federated States of),57,Micronesia (M49),2.4-Regional (M49),1
+583,FSM,Micronesia (Federated States of),722,Small island developing States (SIDS),2.3-Other groupings,1
+492,MCO,Monaco,150,Europe (M49),2.1-Regional (SDG),1
+492,MCO,Monaco,1,World,1.0-Global,1
+492,MCO,Monaco,155,Western Europe (M49),2.4-Regional (M49),1
+492,MCO,Monaco,514,Developed regions (MDG),2.5-Regional (MDG),1
+492,MCO,Monaco,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+496,MNG,Mongolia,518,Eastern Asia (MDG),2.5-Regional (MDG),1
+496,MNG,Mongolia,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+496,MNG,Mongolia,1,World,1.0-Global,1
+496,MNG,Mongolia,30,Eastern Asia (M49),2.1-Regional (SDG),1
+496,MNG,Mongolia,142,Asia (M49),2.4-Regional (M49),1
+496,MNG,Mongolia,515,Developing regions (MDG),2.5-Regional (MDG),1
+496,MNG,Mongolia,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+499,MNE,Montenegro,150,Europe (M49),2.1-Regional (SDG),1
+499,MNE,Montenegro,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+499,MNE,Montenegro,39,Southern Europe (M49),2.4-Regional (M49),1
+499,MNE,Montenegro,1,World,1.0-Global,1
+499,MNE,Montenegro,514,Developed regions (MDG),2.5-Regional (MDG),1
+500,MSR,Montserrat,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+500,MSR,Montserrat,515,Developing regions (MDG),2.5-Regional (MDG),0
+500,MSR,Montserrat,19,Americas (m49),2.4-Regional (M49),0
+500,MSR,Montserrat,722,Small island developing States (SIDS),2.3-Other groupings,0
+500,MSR,Montserrat,1,World,1.0-Global,0
+500,MSR,Montserrat,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+500,MSR,Montserrat,29,Caribbean (M49),2.4-Regional (M49),0
+504,MAR,Morocco,746,Northern Africa (MDG),2.5-Regional (MDG),1
+504,MAR,Morocco,515,Developing regions (MDG),2.5-Regional (MDG),1
+504,MAR,Morocco,15,Northern Africa (M49),2.1-Regional (SDG),1
+504,MAR,Morocco,1,World,1.0-Global,1
+504,MAR,Morocco,2,Africa (M49),2.4-Regional (M49),1
+504,MAR,Morocco,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+508,MOZ,Mozambique,515,Developing regions (MDG),2.5-Regional (MDG),1
+508,MOZ,Mozambique,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+508,MOZ,Mozambique,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+508,MOZ,Mozambique,1,World,1.0-Global,1
+508,MOZ,Mozambique,14,Eastern Africa (M49),2.4-Regional (M49),1
+508,MOZ,Mozambique,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+508,MOZ,Mozambique,2,Africa (M49),2.4-Regional (M49),1
+104,MMR,Myanmar,1,World,1.0-Global,1
+104,MMR,Myanmar,142,Asia (M49),2.4-Regional (M49),1
+104,MMR,Myanmar,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+104,MMR,Myanmar,35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+104,MMR,Myanmar,35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),1
+104,MMR,Myanmar,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+104,MMR,Myanmar,515,Developing regions (MDG),2.5-Regional (MDG),1
+516,NAM,Namibia,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+516,NAM,Namibia,1,World,1.0-Global,1
+516,NAM,Namibia,515,Developing regions (MDG),2.5-Regional (MDG),1
+516,NAM,Namibia,2,Africa (M49),2.4-Regional (M49),1
+516,NAM,Namibia,18,Southern Africa (M49),2.4-Regional (M49),1
+516,NAM,Namibia,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+520,NRU,Nauru,57,Micronesia (M49),2.4-Regional (M49),1
+520,NRU,Nauru,722,Small island developing States (SIDS),2.3-Other groupings,1
+520,NRU,Nauru,543,Oceania (MDG),2.5-Regional (MDG),1
+520,NRU,Nauru,1,World,1.0-Global,1
+520,NRU,Nauru,9,Oceania (M49),2.1-Regional (SDG),1
+520,NRU,Nauru,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+520,NRU,Nauru,515,Developing regions (MDG),2.5-Regional (MDG),1
+524,NPL,Nepal,1,World,1.0-Global,1
+524,NPL,Nepal,34,Southern Asia (MDG=M49),2.5-Regional (MDG),1
+524,NPL,Nepal,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+524,NPL,Nepal,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+524,NPL,Nepal,34,Southern Asia (MDG=M49),2.1-Regional (SDG),1
+524,NPL,Nepal,142,Asia (M49),2.4-Regional (M49),1
+524,NPL,Nepal,515,Developing regions (MDG),2.5-Regional (MDG),1
+524,NPL,Nepal,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+528,NLD,Netherlands,514,Developed regions (MDG),2.5-Regional (MDG),1
+528,NLD,Netherlands,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+528,NLD,Netherlands,150,Europe (M49),2.1-Regional (SDG),1
+528,NLD,Netherlands,1,World,1.0-Global,1
+528,NLD,Netherlands,155,Western Europe (M49),2.4-Regional (M49),1
+540,NCL,New Caledonia,515,Developing regions (MDG),2.5-Regional (MDG),0
+540,NCL,New Caledonia,9,Oceania (M49),2.1-Regional (SDG),0
+540,NCL,New Caledonia,543,Oceania (MDG),2.5-Regional (MDG),0
+540,NCL,New Caledonia,722,Small island developing States (SIDS),2.3-Other groupings,0
+540,NCL,New Caledonia,54,Melanesia (M49),2.4-Regional (M49),0
+540,NCL,New Caledonia,1,World,1.0-Global,0
+540,NCL,New Caledonia,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),0
+554,NZL,New Zealand,53,Australia and New Zealand (M49),2.1-Regional (SDG),1
+554,NZL,New Zealand,9,Oceania (M49),2.1-Regional (SDG),1
+554,NZL,New Zealand,1,World,1.0-Global,1
+554,NZL,New Zealand,514,Developed regions (MDG),2.5-Regional (MDG),1
+558,NIC,Nicaragua,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+558,NIC,Nicaragua,1,World,1.0-Global,1
+558,NIC,Nicaragua,13,Central America (M49),2.4-Regional (M49),1
+558,NIC,Nicaragua,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+558,NIC,Nicaragua,515,Developing regions (MDG),2.5-Regional (MDG),1
+558,NIC,Nicaragua,19,Americas (m49),2.4-Regional (M49),1
+562,NER,Niger,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+562,NER,Niger,1,World,1.0-Global,1
+562,NER,Niger,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+562,NER,Niger,515,Developing regions (MDG),2.5-Regional (MDG),1
+562,NER,Niger,11,Western Africa (M49),2.4-Regional (M49),1
+562,NER,Niger,2,Africa (M49),2.4-Regional (M49),1
+562,NER,Niger,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+562,NER,Niger,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+566,NGA,Nigeria,515,Developing regions (MDG),2.5-Regional (MDG),1
+566,NGA,Nigeria,11,Western Africa (M49),2.4-Regional (M49),1
+566,NGA,Nigeria,1,World,1.0-Global,1
+566,NGA,Nigeria,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+566,NGA,Nigeria,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+566,NGA,Nigeria,2,Africa (M49),2.4-Regional (M49),1
+570,NIU,Niue,722,Small island developing States (SIDS),2.3-Other groupings,1
+570,NIU,Niue,515,Developing regions (MDG),2.5-Regional (MDG),1
+570,NIU,Niue,9,Oceania (M49),2.1-Regional (SDG),1
+570,NIU,Niue,543,Oceania (MDG),2.5-Regional (MDG),1
+570,NIU,Niue,1,World,1.0-Global,1
+570,NIU,Niue,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+570,NIU,Niue,61,Polynesia (M49),2.4-Regional (M49),1
+574,NFK,Norfolk Island,53,Australia and New Zealand (M49),2.1-Regional (SDG),0
+574,NFK,Norfolk Island,1,World,1.0-Global,0
+574,NFK,Norfolk Island,9,Oceania (M49),2.1-Regional (SDG),0
+574,NFK,Norfolk Island,514,Developed regions (MDG),2.5-Regional (MDG),0
+580,MNP,Northern Mariana Islands,1,World,1.0-Global,0
+580,MNP,Northern Mariana Islands,515,Developing regions (MDG),2.5-Regional (MDG),0
+580,MNP,Northern Mariana Islands,722,Small island developing States (SIDS),2.3-Other groupings,0
+580,MNP,Northern Mariana Islands,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),0
+580,MNP,Northern Mariana Islands,9,Oceania (M49),2.1-Regional (SDG),0
+580,MNP,Northern Mariana Islands,57,Micronesia (M49),2.4-Regional (M49),0
+580,MNP,Northern Mariana Islands,543,Oceania (MDG),2.5-Regional (MDG),0
+578,NOR,Norway,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+578,NOR,Norway,154,Northern Europe (M49),2.4-Regional (M49),1
+578,NOR,Norway,1,World,1.0-Global,1
+578,NOR,Norway,150,Europe (M49),2.1-Regional (SDG),1
+578,NOR,Norway,514,Developed regions (MDG),2.5-Regional (MDG),1
+512,OMN,Oman,515,Developing regions (MDG),2.5-Regional (MDG),1
+512,OMN,Oman,485,Western Asia (MDG),2.5-Regional (MDG),1
+512,OMN,Oman,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+512,OMN,Oman,1,World,1.0-Global,1
+512,OMN,Oman,142,Asia (M49),2.4-Regional (M49),1
+512,OMN,Oman,145,Western Asia (M49),2.1-Regional (SDG),1
+586,PAK,Pakistan,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+586,PAK,Pakistan,515,Developing regions (MDG),2.5-Regional (MDG),1
+586,PAK,Pakistan,142,Asia (M49),2.4-Regional (M49),1
+586,PAK,Pakistan,34,Southern Asia (MDG=M49),2.5-Regional (MDG),1
+586,PAK,Pakistan,1,World,1.0-Global,1
+586,PAK,Pakistan,34,Southern Asia (MDG=M49),2.1-Regional (SDG),1
+585,PLW,Palau,722,Small island developing States (SIDS),2.3-Other groupings,1
+585,PLW,Palau,515,Developing regions (MDG),2.5-Regional (MDG),1
+585,PLW,Palau,543,Oceania (MDG),2.5-Regional (MDG),1
+585,PLW,Palau,57,Micronesia (M49),2.4-Regional (M49),1
+585,PLW,Palau,9,Oceania (M49),2.1-Regional (SDG),1
+585,PLW,Palau,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+585,PLW,Palau,1,World,1.0-Global,1
+591,PAN,Panama,515,Developing regions (MDG),2.5-Regional (MDG),1
+591,PAN,Panama,19,Americas (m49),2.4-Regional (M49),1
+591,PAN,Panama,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+591,PAN,Panama,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+591,PAN,Panama,1,World,1.0-Global,1
+591,PAN,Panama,13,Central America (M49),2.4-Regional (M49),1
+598,PNG,Papua New Guinea,54,Melanesia (M49),2.4-Regional (M49),1
+598,PNG,Papua New Guinea,722,Small island developing States (SIDS),2.3-Other groupings,1
+598,PNG,Papua New Guinea,515,Developing regions (MDG),2.5-Regional (MDG),1
+598,PNG,Papua New Guinea,543,Oceania (MDG),2.5-Regional (MDG),1
+598,PNG,Papua New Guinea,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+598,PNG,Papua New Guinea,9,Oceania (M49),2.1-Regional (SDG),1
+598,PNG,Papua New Guinea,1,World,1.0-Global,1
+600,PRY,Paraguay,5,South America (M49),2.4-Regional (M49),1
+600,PRY,Paraguay,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+600,PRY,Paraguay,515,Developing regions (MDG),2.5-Regional (MDG),1
+600,PRY,Paraguay,1,World,1.0-Global,1
+600,PRY,Paraguay,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+600,PRY,Paraguay,19,Americas (m49),2.4-Regional (M49),1
+600,PRY,Paraguay,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+604,PER,Peru,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+604,PER,Peru,515,Developing regions (MDG),2.5-Regional (MDG),1
+604,PER,Peru,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+604,PER,Peru,5,South America (M49),2.4-Regional (M49),1
+604,PER,Peru,1,World,1.0-Global,1
+604,PER,Peru,19,Americas (m49),2.4-Regional (M49),1
+608,PHL,Philippines,515,Developing regions (MDG),2.5-Regional (MDG),1
+608,PHL,Philippines,35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),1
+608,PHL,Philippines,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+608,PHL,Philippines,142,Asia (M49),2.4-Regional (M49),1
+608,PHL,Philippines,35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+608,PHL,Philippines,1,World,1.0-Global,1
+612,PCN,Pitcairn,543,Oceania (MDG),2.5-Regional (MDG),0
+612,PCN,Pitcairn,9,Oceania (M49),2.1-Regional (SDG),0
+612,PCN,Pitcairn,1,World,1.0-Global,0
+612,PCN,Pitcairn,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),0
+612,PCN,Pitcairn,61,Polynesia (M49),2.4-Regional (M49),0
+612,PCN,Pitcairn,515,Developing regions (MDG),2.5-Regional (MDG),0
+616,POL,Poland,1,World,1.0-Global,1
+616,POL,Poland,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+616,POL,Poland,514,Developed regions (MDG),2.5-Regional (MDG),1
+616,POL,Poland,151,Eastern Europe (M49),2.4-Regional (M49),1
+616,POL,Poland,150,Europe (M49),2.1-Regional (SDG),1
+620,PRT,Portugal,514,Developed regions (MDG),2.5-Regional (MDG),1
+620,PRT,Portugal,39,Southern Europe (M49),2.4-Regional (M49),1
+620,PRT,Portugal,1,World,1.0-Global,1
+620,PRT,Portugal,150,Europe (M49),2.1-Regional (SDG),1
+620,PRT,Portugal,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+630,PRI,Puerto Rico,1,World,1.0-Global,0
+630,PRI,Puerto Rico,19,Americas (m49),2.4-Regional (M49),0
+630,PRI,Puerto Rico,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+630,PRI,Puerto Rico,29,Caribbean (M49),2.4-Regional (M49),0
+630,PRI,Puerto Rico,722,Small island developing States (SIDS),2.3-Other groupings,0
+630,PRI,Puerto Rico,515,Developing regions (MDG),2.5-Regional (MDG),0
+630,PRI,Puerto Rico,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+634,QAT,Qatar,145,Western Asia (M49),2.1-Regional (SDG),1
+634,QAT,Qatar,1,World,1.0-Global,1
+634,QAT,Qatar,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+634,QAT,Qatar,142,Asia (M49),2.4-Regional (M49),1
+634,QAT,Qatar,485,Western Asia (MDG),2.5-Regional (MDG),1
+634,QAT,Qatar,515,Developing regions (MDG),2.5-Regional (MDG),1
+410,KOR,Republic of Korea,30,Eastern Asia (M49),2.1-Regional (SDG),1
+410,KOR,Republic of Korea,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+410,KOR,Republic of Korea,518,Eastern Asia (MDG),2.5-Regional (MDG),1
+410,KOR,Republic of Korea,142,Asia (M49),2.4-Regional (M49),1
+410,KOR,Republic of Korea,1,World,1.0-Global,1
+410,KOR,Republic of Korea,515,Developing regions (MDG),2.5-Regional (MDG),1
+498,MDA,Republic of Moldova,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+498,MDA,Republic of Moldova,151,Eastern Europe (M49),2.4-Regional (M49),1
+498,MDA,Republic of Moldova,1,World,1.0-Global,1
+498,MDA,Republic of Moldova,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+498,MDA,Republic of Moldova,150,Europe (M49),2.1-Regional (SDG),1
+498,MDA,Republic of Moldova,514,Developed regions (MDG),2.5-Regional (MDG),1
+642,ROU,Romania,151,Eastern Europe (M49),2.4-Regional (M49),1
+642,ROU,Romania,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+642,ROU,Romania,150,Europe (M49),2.1-Regional (SDG),1
+642,ROU,Romania,514,Developed regions (MDG),2.5-Regional (MDG),1
+642,ROU,Romania,1,World,1.0-Global,1
+643,RUS,Russian Federation,151,Eastern Europe (M49),2.4-Regional (M49),1
+643,RUS,Russian Federation,1,World,1.0-Global,1
+643,RUS,Russian Federation,150,Europe (M49),2.1-Regional (SDG),1
+643,RUS,Russian Federation,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+643,RUS,Russian Federation,514,Developed regions (MDG),2.5-Regional (MDG),1
+646,RWA,Rwanda,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+646,RWA,Rwanda,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+646,RWA,Rwanda,14,Eastern Africa (M49),2.4-Regional (M49),1
+646,RWA,Rwanda,515,Developing regions (MDG),2.5-Regional (MDG),1
+646,RWA,Rwanda,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+646,RWA,Rwanda,1,World,1.0-Global,1
+646,RWA,Rwanda,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+646,RWA,Rwanda,2,Africa (M49),2.4-Regional (M49),1
+638,REU,Réunion,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),0
+638,REU,Réunion,1,World,1.0-Global,0
+638,REU,Réunion,2,Africa (M49),2.4-Regional (M49),0
+638,REU,Réunion,14,Eastern Africa (M49),2.4-Regional (M49),0
+638,REU,Réunion,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),0
+638,REU,Réunion,515,Developing regions (MDG),2.5-Regional (MDG),0
+652,BLM,Saint Barthélemy,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+652,BLM,Saint Barthélemy,19,Americas (m49),2.4-Regional (M49),0
+652,BLM,Saint Barthélemy,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+652,BLM,Saint Barthélemy,515,Developing regions (MDG),2.5-Regional (MDG),0
+652,BLM,Saint Barthélemy,29,Caribbean (M49),2.4-Regional (M49),0
+652,BLM,Saint Barthélemy,1,World,1.0-Global,0
+654,SHN,Saint Helena,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),0
+654,SHN,Saint Helena,1,World,1.0-Global,0
+654,SHN,Saint Helena,515,Developing regions (MDG),2.5-Regional (MDG),0
+654,SHN,Saint Helena,11,Western Africa (M49),2.4-Regional (M49),0
+654,SHN,Saint Helena,2,Africa (M49),2.4-Regional (M49),0
+654,SHN,Saint Helena,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),0
+659,KNA,Saint Kitts and Nevis,29,Caribbean (M49),2.4-Regional (M49),1
+659,KNA,Saint Kitts and Nevis,1,World,1.0-Global,1
+659,KNA,Saint Kitts and Nevis,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+659,KNA,Saint Kitts and Nevis,19,Americas (m49),2.4-Regional (M49),1
+659,KNA,Saint Kitts and Nevis,722,Small island developing States (SIDS),2.3-Other groupings,1
+659,KNA,Saint Kitts and Nevis,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+659,KNA,Saint Kitts and Nevis,515,Developing regions (MDG),2.5-Regional (MDG),1
+662,LCA,Saint Lucia,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+662,LCA,Saint Lucia,19,Americas (m49),2.4-Regional (M49),1
+662,LCA,Saint Lucia,29,Caribbean (M49),2.4-Regional (M49),1
+662,LCA,Saint Lucia,1,World,1.0-Global,1
+662,LCA,Saint Lucia,722,Small island developing States (SIDS),2.3-Other groupings,1
+662,LCA,Saint Lucia,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+662,LCA,Saint Lucia,515,Developing regions (MDG),2.5-Regional (MDG),1
+663,MAF,Saint Martin (French Part),515,Developing regions (MDG),2.5-Regional (MDG),0
+663,MAF,Saint Martin (French Part),419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+663,MAF,Saint Martin (French Part),29,Caribbean (M49),2.4-Regional (M49),0
+663,MAF,Saint Martin (French Part),1,World,1.0-Global,0
+663,MAF,Saint Martin (French Part),19,Americas (m49),2.4-Regional (M49),0
+663,MAF,Saint Martin (French Part),419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+666,SPM,Saint Pierre and Miquelon,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+666,SPM,Saint Pierre and Miquelon,19,Americas (m49),2.4-Regional (M49),0
+666,SPM,Saint Pierre and Miquelon,514,Developed regions (MDG),2.5-Regional (MDG),0
+666,SPM,Saint Pierre and Miquelon,1,World,1.0-Global,0
+666,SPM,Saint Pierre and Miquelon,21,Northern America (M49),2.1-Regional (SDG),0
+670,VCT,Saint Vincent and the Grenadines,19,Americas (m49),2.4-Regional (M49),1
+670,VCT,Saint Vincent and the Grenadines,29,Caribbean (M49),2.4-Regional (M49),1
+670,VCT,Saint Vincent and the Grenadines,515,Developing regions (MDG),2.5-Regional (MDG),1
+670,VCT,Saint Vincent and the Grenadines,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+670,VCT,Saint Vincent and the Grenadines,1,World,1.0-Global,1
+670,VCT,Saint Vincent and the Grenadines,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+670,VCT,Saint Vincent and the Grenadines,722,Small island developing States (SIDS),2.3-Other groupings,1
+882,WSM,Samoa,61,Polynesia (M49),2.4-Regional (M49),1
+882,WSM,Samoa,543,Oceania (MDG),2.5-Regional (MDG),1
+882,WSM,Samoa,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+882,WSM,Samoa,9,Oceania (M49),2.1-Regional (SDG),1
+882,WSM,Samoa,1,World,1.0-Global,1
+882,WSM,Samoa,515,Developing regions (MDG),2.5-Regional (MDG),1
+882,WSM,Samoa,722,Small island developing States (SIDS),2.3-Other groupings,1
+674,SMR,San Marino,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+674,SMR,San Marino,39,Southern Europe (M49),2.4-Regional (M49),1
+674,SMR,San Marino,150,Europe (M49),2.1-Regional (SDG),1
+674,SMR,San Marino,514,Developed regions (MDG),2.5-Regional (MDG),1
+674,SMR,San Marino,1,World,1.0-Global,1
+678,STP,Sao Tome and Principe,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+678,STP,Sao Tome and Principe,722,Small island developing States (SIDS),2.3-Other groupings,1
+678,STP,Sao Tome and Principe,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+678,STP,Sao Tome and Principe,17,Middle Africa (M49),2.4-Regional (M49),1
+678,STP,Sao Tome and Principe,2,Africa (M49),2.4-Regional (M49),1
+678,STP,Sao Tome and Principe,515,Developing regions (MDG),2.5-Regional (MDG),1
+678,STP,Sao Tome and Principe,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+678,STP,Sao Tome and Principe,1,World,1.0-Global,1
+682,SAU,Saudi Arabia,1,World,1.0-Global,1
+682,SAU,Saudi Arabia,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+682,SAU,Saudi Arabia,142,Asia (M49),2.4-Regional (M49),1
+682,SAU,Saudi Arabia,515,Developing regions (MDG),2.5-Regional (MDG),1
+682,SAU,Saudi Arabia,485,Western Asia (MDG),2.5-Regional (MDG),1
+682,SAU,Saudi Arabia,145,Western Asia (M49),2.1-Regional (SDG),1
+686,SEN,Senegal,1,World,1.0-Global,1
+686,SEN,Senegal,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+686,SEN,Senegal,515,Developing regions (MDG),2.5-Regional (MDG),1
+686,SEN,Senegal,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+686,SEN,Senegal,11,Western Africa (M49),2.4-Regional (M49),1
+686,SEN,Senegal,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+686,SEN,Senegal,2,Africa (M49),2.4-Regional (M49),1
+688,SRB,Serbia,514,Developed regions (MDG),2.5-Regional (MDG),1
+688,SRB,Serbia,39,Southern Europe (M49),2.4-Regional (M49),1
+688,SRB,Serbia,150,Europe (M49),2.1-Regional (SDG),1
+688,SRB,Serbia,1,World,1.0-Global,1
+688,SRB,Serbia,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+690,SYC,Seychelles,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+690,SYC,Seychelles,14,Eastern Africa (M49),2.4-Regional (M49),1
+690,SYC,Seychelles,1,World,1.0-Global,1
+690,SYC,Seychelles,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+690,SYC,Seychelles,2,Africa (M49),2.4-Regional (M49),1
+690,SYC,Seychelles,515,Developing regions (MDG),2.5-Regional (MDG),1
+690,SYC,Seychelles,722,Small island developing States (SIDS),2.3-Other groupings,1
+694,SLE,Sierra Leone,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+694,SLE,Sierra Leone,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+694,SLE,Sierra Leone,2,Africa (M49),2.4-Regional (M49),1
+694,SLE,Sierra Leone,1,World,1.0-Global,1
+694,SLE,Sierra Leone,515,Developing regions (MDG),2.5-Regional (MDG),1
+694,SLE,Sierra Leone,11,Western Africa (M49),2.4-Regional (M49),1
+694,SLE,Sierra Leone,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+702,SGP,Singapore,35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+702,SGP,Singapore,1,World,1.0-Global,1
+702,SGP,Singapore,515,Developing regions (MDG),2.5-Regional (MDG),1
+702,SGP,Singapore,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+702,SGP,Singapore,142,Asia (M49),2.4-Regional (M49),1
+702,SGP,Singapore,722,Small island developing States (SIDS),2.3-Other groupings,1
+702,SGP,Singapore,35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),1
+534,SXM,Sint Maarten (Dutch part),419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+534,SXM,Sint Maarten (Dutch part),419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+534,SXM,Sint Maarten (Dutch part),1,World,1.0-Global,0
+534,SXM,Sint Maarten (Dutch part),29,Caribbean (M49),2.4-Regional (M49),0
+534,SXM,Sint Maarten (Dutch part),515,Developing regions (MDG),2.5-Regional (MDG),0
+534,SXM,Sint Maarten (Dutch part),722,Small island developing States (SIDS),2.3-Other groupings,0
+534,SXM,Sint Maarten (Dutch part),19,Americas (m49),2.4-Regional (M49),0
+703,SVK,Slovakia,151,Eastern Europe (M49),2.4-Regional (M49),1
+703,SVK,Slovakia,1,World,1.0-Global,1
+703,SVK,Slovakia,514,Developed regions (MDG),2.5-Regional (MDG),1
+703,SVK,Slovakia,150,Europe (M49),2.1-Regional (SDG),1
+703,SVK,Slovakia,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+705,SVN,Slovenia,1,World,1.0-Global,1
+705,SVN,Slovenia,150,Europe (M49),2.1-Regional (SDG),1
+705,SVN,Slovenia,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+705,SVN,Slovenia,514,Developed regions (MDG),2.5-Regional (MDG),1
+705,SVN,Slovenia,39,Southern Europe (M49),2.4-Regional (M49),1
+90,SLB,Solomon Islands,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+90,SLB,Solomon Islands,543,Oceania (MDG),2.5-Regional (MDG),1
+90,SLB,Solomon Islands,515,Developing regions (MDG),2.5-Regional (MDG),1
+90,SLB,Solomon Islands,1,World,1.0-Global,1
+90,SLB,Solomon Islands,722,Small island developing States (SIDS),2.3-Other groupings,1
+90,SLB,Solomon Islands,54,Melanesia (M49),2.4-Regional (M49),1
+90,SLB,Solomon Islands,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+90,SLB,Solomon Islands,9,Oceania (M49),2.1-Regional (SDG),1
+706,SOM,Somalia,2,Africa (M49),2.4-Regional (M49),1
+706,SOM,Somalia,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+706,SOM,Somalia,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+706,SOM,Somalia,14,Eastern Africa (M49),2.4-Regional (M49),1
+706,SOM,Somalia,515,Developing regions (MDG),2.5-Regional (MDG),1
+706,SOM,Somalia,1,World,1.0-Global,1
+706,SOM,Somalia,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+710,ZAF,South Africa,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+710,ZAF,South Africa,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+710,ZAF,South Africa,18,Southern Africa (M49),2.4-Regional (M49),1
+710,ZAF,South Africa,515,Developing regions (MDG),2.5-Regional (MDG),1
+710,ZAF,South Africa,1,World,1.0-Global,1
+710,ZAF,South Africa,2,Africa (M49),2.4-Regional (M49),1
+239,SGS,South Georgia and the South Sandwich Islands,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+239,SGS,South Georgia and the South Sandwich Islands,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+239,SGS,South Georgia and the South Sandwich Islands,515,Developing regions (MDG),2.5-Regional (MDG),0
+239,SGS,South Georgia and the South Sandwich Islands,1,World,1.0-Global,0
+239,SGS,South Georgia and the South Sandwich Islands,19,Americas (m49),2.4-Regional (M49),0
+239,SGS,South Georgia and the South Sandwich Islands,5,South America (M49),2.4-Regional (M49),0
+728,SSD,South Sudan,14,Eastern Africa (M49),2.4-Regional (M49),1
+728,SSD,South Sudan,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+728,SSD,South Sudan,515,Developing regions (MDG),2.5-Regional (MDG),1
+728,SSD,South Sudan,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+728,SSD,South Sudan,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+728,SSD,South Sudan,2,Africa (M49),2.4-Regional (M49),1
+728,SSD,South Sudan,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+728,SSD,South Sudan,1,World,1.0-Global,1
+724,ESP,Spain,39,Southern Europe (M49),2.4-Regional (M49),1
+724,ESP,Spain,1,World,1.0-Global,1
+724,ESP,Spain,150,Europe (M49),2.1-Regional (SDG),1
+724,ESP,Spain,514,Developed regions (MDG),2.5-Regional (MDG),1
+724,ESP,Spain,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+144,LKA,Sri Lanka,1,World,1.0-Global,1
+144,LKA,Sri Lanka,34,Southern Asia (MDG=M49),2.1-Regional (SDG),1
+144,LKA,Sri Lanka,515,Developing regions (MDG),2.5-Regional (MDG),1
+144,LKA,Sri Lanka,34,Southern Asia (MDG=M49),2.5-Regional (MDG),1
+144,LKA,Sri Lanka,142,Asia (M49),2.4-Regional (M49),1
+144,LKA,Sri Lanka,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+275,PSE,State of Palestine,485,Western Asia (MDG),2.5-Regional (MDG),0
+275,PSE,State of Palestine,142,Asia (M49),2.4-Regional (M49),0
+275,PSE,State of Palestine,1,World,1.0-Global,0
+275,PSE,State of Palestine,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),0
+275,PSE,State of Palestine,145,Western Asia (M49),2.1-Regional (SDG),0
+275,PSE,State of Palestine,515,Developing regions (MDG),2.5-Regional (MDG),0
+729,SDN,Sudan,515,Developing regions (MDG),2.5-Regional (MDG),1
+729,SDN,Sudan,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+729,SDN,Sudan,15,Northern Africa (M49),2.1-Regional (SDG),1
+729,SDN,Sudan,2,Africa (M49),2.4-Regional (M49),1
+729,SDN,Sudan,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+729,SDN,Sudan,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+729,SDN,Sudan,1,World,1.0-Global,1
+740,SUR,Suriname,5,South America (M49),2.4-Regional (M49),1
+740,SUR,Suriname,1,World,1.0-Global,1
+740,SUR,Suriname,19,Americas (m49),2.4-Regional (M49),1
+740,SUR,Suriname,722,Small island developing States (SIDS),2.3-Other groupings,1
+740,SUR,Suriname,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+740,SUR,Suriname,515,Developing regions (MDG),2.5-Regional (MDG),1
+740,SUR,Suriname,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+744,SJM,Svalbard and Jan Mayen Islands,150,Europe (M49),2.1-Regional (SDG),0
+744,SJM,Svalbard and Jan Mayen Islands,514,Developed regions (MDG),2.5-Regional (MDG),0
+744,SJM,Svalbard and Jan Mayen Islands,1,World,1.0-Global,0
+744,SJM,Svalbard and Jan Mayen Islands,154,Northern Europe (M49),2.4-Regional (M49),0
+744,SJM,Svalbard and Jan Mayen Islands,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+748,SWZ,Swaziland,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+748,SWZ,Swaziland,515,Developing regions (MDG),2.5-Regional (MDG),1
+748,SWZ,Swaziland,2,Africa (M49),2.4-Regional (M49),1
+748,SWZ,Swaziland,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+748,SWZ,Swaziland,18,Southern Africa (M49),2.4-Regional (M49),1
+748,SWZ,Swaziland,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+748,SWZ,Swaziland,1,World,1.0-Global,1
+752,SWE,Sweden,1,World,1.0-Global,1
+752,SWE,Sweden,154,Northern Europe (M49),2.4-Regional (M49),1
+752,SWE,Sweden,150,Europe (M49),2.1-Regional (SDG),1
+752,SWE,Sweden,514,Developed regions (MDG),2.5-Regional (MDG),1
+752,SWE,Sweden,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+756,CHE,Switzerland,155,Western Europe (M49),2.4-Regional (M49),1
+756,CHE,Switzerland,514,Developed regions (MDG),2.5-Regional (MDG),1
+756,CHE,Switzerland,150,Europe (M49),2.1-Regional (SDG),1
+756,CHE,Switzerland,1,World,1.0-Global,1
+756,CHE,Switzerland,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+760,SYR,Syrian Arab Republic,515,Developing regions (MDG),2.5-Regional (MDG),1
+760,SYR,Syrian Arab Republic,142,Asia (M49),2.4-Regional (M49),1
+760,SYR,Syrian Arab Republic,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+760,SYR,Syrian Arab Republic,1,World,1.0-Global,1
+760,SYR,Syrian Arab Republic,145,Western Asia (M49),2.1-Regional (SDG),1
+760,SYR,Syrian Arab Republic,485,Western Asia (MDG),2.5-Regional (MDG),1
+156,CHN,Taiwan Province of China,1,World,1.0-Global,0
+156,CHN,Taiwan Province of China,142,Asia (M49),2.4-Regional (M49),0
+156,CHN,Taiwan Province of China,515,Developing regions (MDG),2.5-Regional (MDG),0
+156,CHN,Taiwan Province of China,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),0
+156,CHN,Taiwan Province of China,518,Eastern Asia (MDG),2.5-Regional (MDG),0
+156,CHN,Taiwan Province of China,30,Eastern Asia (M49),2.1-Regional (SDG),0
+762,TJK,Tajikistan,135,Caucasus and Central Asia (MDG),2.5-Regional (MDG),1
+762,TJK,Tajikistan,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+762,TJK,Tajikistan,142,Asia (M49),2.4-Regional (M49),1
+762,TJK,Tajikistan,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+762,TJK,Tajikistan,1,World,1.0-Global,1
+762,TJK,Tajikistan,143,Central Asia (M49),2.1-Regional (SDG),1
+762,TJK,Tajikistan,515,Developing regions (MDG),2.5-Regional (MDG),1
+764,THA,Thailand,515,Developing regions (MDG),2.5-Regional (MDG),1
+764,THA,Thailand,35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+764,THA,Thailand,1,World,1.0-Global,1
+764,THA,Thailand,142,Asia (M49),2.4-Regional (M49),1
+764,THA,Thailand,35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),1
+764,THA,Thailand,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+807,MKD,The former Yugoslav Republic of Macedonia,1,World,1.0-Global,1
+807,MKD,The former Yugoslav Republic of Macedonia,514,Developed regions (MDG),2.5-Regional (MDG),1
+807,MKD,The former Yugoslav Republic of Macedonia,39,Southern Europe (M49),2.4-Regional (M49),1
+807,MKD,The former Yugoslav Republic of Macedonia,150,Europe (M49),2.1-Regional (SDG),1
+807,MKD,The former Yugoslav Republic of Macedonia,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+807,MKD,The former Yugoslav Republic of Macedonia,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+626,TLS,Timor-Leste,1,World,1.0-Global,1
+626,TLS,Timor-Leste,35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),1
+626,TLS,Timor-Leste,142,Asia (M49),2.4-Regional (M49),1
+626,TLS,Timor-Leste,35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+626,TLS,Timor-Leste,515,Developing regions (MDG),2.5-Regional (MDG),1
+626,TLS,Timor-Leste,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+626,TLS,Timor-Leste,722,Small island developing States (SIDS),2.3-Other groupings,1
+626,TLS,Timor-Leste,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+768,TGO,Togo,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+768,TGO,Togo,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+768,TGO,Togo,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+768,TGO,Togo,1,World,1.0-Global,1
+768,TGO,Togo,515,Developing regions (MDG),2.5-Regional (MDG),1
+768,TGO,Togo,11,Western Africa (M49),2.4-Regional (M49),1
+768,TGO,Togo,2,Africa (M49),2.4-Regional (M49),1
+772,TKL,Tokelau,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+772,TKL,Tokelau,515,Developing regions (MDG),2.5-Regional (MDG),1
+772,TKL,Tokelau,543,Oceania (MDG),2.5-Regional (MDG),1
+772,TKL,Tokelau,1,World,1.0-Global,1
+772,TKL,Tokelau,61,Polynesia (M49),2.4-Regional (M49),1
+772,TKL,Tokelau,9,Oceania (M49),2.1-Regional (SDG),1
+776,TON,Tonga,543,Oceania (MDG),2.5-Regional (MDG),1
+776,TON,Tonga,9,Oceania (M49),2.1-Regional (SDG),1
+776,TON,Tonga,722,Small island developing States (SIDS),2.3-Other groupings,1
+776,TON,Tonga,515,Developing regions (MDG),2.5-Regional (MDG),1
+776,TON,Tonga,1,World,1.0-Global,1
+776,TON,Tonga,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+776,TON,Tonga,61,Polynesia (M49),2.4-Regional (M49),1
+780,TTO,Trinidad and Tobago,1,World,1.0-Global,1
+780,TTO,Trinidad and Tobago,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+780,TTO,Trinidad and Tobago,29,Caribbean (M49),2.4-Regional (M49),1
+780,TTO,Trinidad and Tobago,19,Americas (m49),2.4-Regional (M49),1
+780,TTO,Trinidad and Tobago,722,Small island developing States (SIDS),2.3-Other groupings,1
+780,TTO,Trinidad and Tobago,515,Developing regions (MDG),2.5-Regional (MDG),1
+780,TTO,Trinidad and Tobago,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+788,TUN,Tunisia,15,Northern Africa (M49),2.1-Regional (SDG),1
+788,TUN,Tunisia,746,Northern Africa (MDG),2.5-Regional (MDG),1
+788,TUN,Tunisia,515,Developing regions (MDG),2.5-Regional (MDG),1
+788,TUN,Tunisia,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+788,TUN,Tunisia,2,Africa (M49),2.4-Regional (M49),1
+788,TUN,Tunisia,1,World,1.0-Global,1
+792,TUR,Turkey,142,Asia (M49),2.4-Regional (M49),1
+792,TUR,Turkey,145,Western Asia (M49),2.1-Regional (SDG),1
+792,TUR,Turkey,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+792,TUR,Turkey,485,Western Asia (MDG),2.5-Regional (MDG),1
+792,TUR,Turkey,515,Developing regions (MDG),2.5-Regional (MDG),1
+792,TUR,Turkey,1,World,1.0-Global,1
+795,TKM,Turkmenistan,515,Developing regions (MDG),2.5-Regional (MDG),1
+795,TKM,Turkmenistan,142,Asia (M49),2.4-Regional (M49),1
+795,TKM,Turkmenistan,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+795,TKM,Turkmenistan,1,World,1.0-Global,1
+795,TKM,Turkmenistan,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+795,TKM,Turkmenistan,135,Caucasus and Central Asia (MDG),2.5-Regional (MDG),1
+795,TKM,Turkmenistan,143,Central Asia (M49),2.1-Regional (SDG),1
+796,TCA,Turks and Caicos Islands,19,Americas (m49),2.4-Regional (M49),0
+796,TCA,Turks and Caicos Islands,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+796,TCA,Turks and Caicos Islands,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+796,TCA,Turks and Caicos Islands,515,Developing regions (MDG),2.5-Regional (MDG),0
+796,TCA,Turks and Caicos Islands,1,World,1.0-Global,0
+796,TCA,Turks and Caicos Islands,29,Caribbean (M49),2.4-Regional (M49),0
+798,TUV,Tuvalu,9,Oceania (M49),2.1-Regional (SDG),1
+798,TUV,Tuvalu,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+798,TUV,Tuvalu,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+798,TUV,Tuvalu,61,Polynesia (M49),2.4-Regional (M49),1
+798,TUV,Tuvalu,543,Oceania (MDG),2.5-Regional (MDG),1
+798,TUV,Tuvalu,722,Small island developing States (SIDS),2.3-Other groupings,1
+798,TUV,Tuvalu,1,World,1.0-Global,1
+798,TUV,Tuvalu,515,Developing regions (MDG),2.5-Regional (MDG),1
+800,UGA,Uganda,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+800,UGA,Uganda,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+800,UGA,Uganda,2,Africa (M49),2.4-Regional (M49),1
+800,UGA,Uganda,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+800,UGA,Uganda,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+800,UGA,Uganda,1,World,1.0-Global,1
+800,UGA,Uganda,515,Developing regions (MDG),2.5-Regional (MDG),1
+800,UGA,Uganda,14,Eastern Africa (M49),2.4-Regional (M49),1
+804,UKR,Ukraine,151,Eastern Europe (M49),2.4-Regional (M49),1
+804,UKR,Ukraine,514,Developed regions (MDG),2.5-Regional (MDG),1
+804,UKR,Ukraine,150,Europe (M49),2.1-Regional (SDG),1
+804,UKR,Ukraine,1,World,1.0-Global,1
+804,UKR,Ukraine,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+784,ARE,United Arab Emirates,485,Western Asia (MDG),2.5-Regional (MDG),1
+784,ARE,United Arab Emirates,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+784,ARE,United Arab Emirates,142,Asia (M49),2.4-Regional (M49),1
+784,ARE,United Arab Emirates,1,World,1.0-Global,1
+784,ARE,United Arab Emirates,515,Developing regions (MDG),2.5-Regional (MDG),1
+784,ARE,United Arab Emirates,145,Western Asia (M49),2.1-Regional (SDG),1
+826,GBR,United Kingdom of Great Britain and Northern Ireland,154,Northern Europe (M49),2.4-Regional (M49),1
+826,GBR,United Kingdom of Great Britain and Northern Ireland,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+826,GBR,United Kingdom of Great Britain and Northern Ireland,1,World,1.0-Global,1
+826,GBR,United Kingdom of Great Britain and Northern Ireland,150,Europe (M49),2.1-Regional (SDG),1
+826,GBR,United Kingdom of Great Britain and Northern Ireland,514,Developed regions (MDG),2.5-Regional (MDG),1
+834,TZA,United Republic of Tanzania,2,Africa (M49),2.4-Regional (M49),1
+834,TZA,United Republic of Tanzania,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+834,TZA,United Republic of Tanzania,1,World,1.0-Global,1
+834,TZA,United Republic of Tanzania,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+834,TZA,United Republic of Tanzania,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+834,TZA,United Republic of Tanzania,515,Developing regions (MDG),2.5-Regional (MDG),1
+834,TZA,United Republic of Tanzania,14,Eastern Africa (M49),2.4-Regional (M49),1
+850,VIR,United States Virgin Islands,1,World,1.0-Global,0
+850,VIR,United States Virgin Islands,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),0
+850,VIR,United States Virgin Islands,29,Caribbean (M49),2.4-Regional (M49),0
+850,VIR,United States Virgin Islands,515,Developing regions (MDG),2.5-Regional (MDG),0
+850,VIR,United States Virgin Islands,19,Americas (m49),2.4-Regional (M49),0
+850,VIR,United States Virgin Islands,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),0
+850,VIR,United States Virgin Islands,722,Small island developing States (SIDS),2.3-Other groupings,0
+581,UMI,United States minor outlying islands,9,Oceania (M49),2.1-Regional (SDG),0
+581,UMI,United States minor outlying islands,543,Oceania (MDG),2.5-Regional (MDG),0
+581,UMI,United States minor outlying islands,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),0
+581,UMI,United States minor outlying islands,57,Micronesia (M49),2.4-Regional (M49),0
+581,UMI,United States minor outlying islands,515,Developing regions (MDG),2.5-Regional (MDG),0
+581,UMI,United States minor outlying islands,1,World,1.0-Global,0
+840,USA,United States of America,21,Northern America (M49),2.1-Regional (SDG),1
+840,USA,United States of America,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),1
+840,USA,United States of America,1,World,1.0-Global,1
+840,USA,United States of America,514,Developed regions (MDG),2.5-Regional (MDG),1
+840,USA,United States of America,19,Americas (m49),2.4-Regional (M49),1
+858,URY,Uruguay,419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+858,URY,Uruguay,19,Americas (m49),2.4-Regional (M49),1
+858,URY,Uruguay,5,South America (M49),2.4-Regional (M49),1
+858,URY,Uruguay,515,Developing regions (MDG),2.5-Regional (MDG),1
+858,URY,Uruguay,1,World,1.0-Global,1
+858,URY,Uruguay,419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+860,UZB,Uzbekistan,515,Developing regions (MDG),2.5-Regional (MDG),1
+860,UZB,Uzbekistan,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+860,UZB,Uzbekistan,1,World,1.0-Global,1
+860,UZB,Uzbekistan,142,Asia (M49),2.4-Regional (M49),1
+860,UZB,Uzbekistan,143,Central Asia (M49),2.1-Regional (SDG),1
+860,UZB,Uzbekistan,135,Caucasus and Central Asia (MDG),2.5-Regional (MDG),1
+860,UZB,Uzbekistan,62,Central Asia (M49) and Southern Asia (MDG=M49),2.1-Regional (SDG),1
+548,VUT,Vanuatu,1,World,1.0-Global,1
+548,VUT,Vanuatu,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+548,VUT,Vanuatu,9,Oceania (M49),2.1-Regional (SDG),1
+548,VUT,Vanuatu,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),1
+548,VUT,Vanuatu,54,Melanesia (M49),2.4-Regional (M49),1
+548,VUT,Vanuatu,722,Small island developing States (SIDS),2.3-Other groupings,1
+548,VUT,Vanuatu,515,Developing regions (MDG),2.5-Regional (MDG),1
+548,VUT,Vanuatu,543,Oceania (MDG),2.5-Regional (MDG),1
+862,VEN,Venezuela (Bolivarian Republic of),515,Developing regions (MDG),2.5-Regional (MDG),1
+862,VEN,Venezuela (Bolivarian Republic of),19,Americas (m49),2.4-Regional (M49),1
+862,VEN,Venezuela (Bolivarian Republic of),1,World,1.0-Global,1
+862,VEN,Venezuela (Bolivarian Republic of),419,Latin America and the Caribbean (MDG=M49),2.5-Regional (MDG),1
+862,VEN,Venezuela (Bolivarian Republic of),5,South America (M49),2.4-Regional (M49),1
+862,VEN,Venezuela (Bolivarian Republic of),419,Latin America and the Caribbean (MDG=M49),2.1-Regional (SDG),1
+704,VNM,Viet Nam,35,South-eastern Asia (MDG=M49),2.5-Regional (MDG),1
+704,VNM,Viet Nam,142,Asia (M49),2.4-Regional (M49),1
+704,VNM,Viet Nam,35,South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+704,VNM,Viet Nam,1,World,1.0-Global,1
+704,VNM,Viet Nam,753,Eastern Asia (M49) and South-eastern Asia (MDG=M49),2.1-Regional (SDG),1
+704,VNM,Viet Nam,515,Developing regions (MDG),2.5-Regional (MDG),1
+876,WLF,Wallis and Futuna Islands,1,World,1.0-Global,0
+876,WLF,Wallis and Futuna Islands,515,Developing regions (MDG),2.5-Regional (MDG),0
+876,WLF,Wallis and Futuna Islands,543,Oceania (MDG),2.5-Regional (MDG),0
+876,WLF,Wallis and Futuna Islands,543,Oceania (M49) excluding Australia and New Zealand (M49),2.1-Regional (SDG),0
+876,WLF,Wallis and Futuna Islands,61,Polynesia (M49),2.4-Regional (M49),0
+876,WLF,Wallis and Futuna Islands,9,Oceania (M49),2.1-Regional (SDG),0
+732,ESH,Western Sahara,746,Northern Africa (MDG),2.5-Regional (MDG),0
+732,ESH,Western Sahara,15,Northern Africa (M49),2.1-Regional (SDG),0
+732,ESH,Western Sahara,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),0
+732,ESH,Western Sahara,515,Developing regions (MDG),2.5-Regional (MDG),0
+732,ESH,Western Sahara,2,Africa (M49),2.4-Regional (M49),0
+732,ESH,Western Sahara,1,World,1.0-Global,0
+887,YEM,Yemen,1,World,1.0-Global,1
+887,YEM,Yemen,142,Asia (M49),2.4-Regional (M49),1
+887,YEM,Yemen,145,Western Asia (M49),2.1-Regional (SDG),1
+887,YEM,Yemen,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+887,YEM,Yemen,485,Western Asia (MDG),2.5-Regional (MDG),1
+887,YEM,Yemen,515,Developing regions (MDG),2.5-Regional (MDG),1
+887,YEM,Yemen,747,Western Asia (M49) and Northern Africa (M49),2.1-Regional (SDG),1
+894,ZMB,Zambia,515,Developing regions (MDG),2.5-Regional (MDG),1
+894,ZMB,Zambia,1,World,1.0-Global,1
+894,ZMB,Zambia,14,Eastern Africa (M49),2.4-Regional (M49),1
+894,ZMB,Zambia,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+894,ZMB,Zambia,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+894,ZMB,Zambia,199,Least Developed Countries (LDCs),2.3-Other groupings,1
+894,ZMB,Zambia,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+894,ZMB,Zambia,2,Africa (M49),2.4-Regional (M49),1
+716,ZWE,Zimbabwe,432,Landlocked developing countries (LLDCs),2.3-Other groupings,1
+716,ZWE,Zimbabwe,14,Eastern Africa (M49),2.4-Regional (M49),1
+716,ZWE,Zimbabwe,1,World,1.0-Global,1
+716,ZWE,Zimbabwe,738,Sub-Saharan Africa (MDG),2.5-Regional (MDG),1
+716,ZWE,Zimbabwe,515,Developing regions (MDG),2.5-Regional (MDG),1
+716,ZWE,Zimbabwe,2,Africa (M49),2.4-Regional (M49),1
+716,ZWE,Zimbabwe,202,Sub-Saharan Africa (M49),2.1-Regional (SDG),1
+248,ALA,Åland Islands,1,World,1.0-Global,0
+248,ALA,Åland Islands,154,Northern Europe (M49),2.4-Regional (M49),0
+248,ALA,Åland Islands,513,Northern America (M49) and Europe (M49),2.1-Regional (SDG),0
+248,ALA,Åland Islands,150,Europe (M49),2.1-Regional (SDG),0
+248,ALA,Åland Islands,514,Developed regions (MDG),2.5-Regional (MDG),0
